@@ -1,0 +1,314 @@
+#container {
+  width:600px;
+  height:680px;
+}
+
+#map {
+  width:585px;
+  height:680px;
+}
+.filters {
+  display: flex;
+  width:585px;
+  height:250px;
+  margin-top: 0px;
+}
+#legend {
+  position: absolute;
+  top: 3px;
+  left: 780px;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  z-index: 100;
+  font-size: 1em;
+  font-family: sans-serif;
+  width: 165px;
+  background: rgba(255,255,255,0.6);
+}
+body {
+  color: #2c3e50;
+  background: #ecf0f1;
+}
+h1 {
+  text-align: center;
+}
+
+#infoHeader {
+  font-weight: bold;
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  padding:15px;
+  width: 300px;
+  height: 180px;
+  /* margin:15px; */
+  border:1px solid #bbb;
+
+}
+.wrapper{
+
+}
+.half {
+  flex-grow: 0.5;
+  padding: 0 2px;
+  float: right;
+}
+
+.tab {
+  position: relative;
+  margin-bottom: 1px;
+  width: 300px;
+  color: #fff;
+  overflow: hidden;
+}
+input {
+  position: absolute;
+  opacity: 0;
+  z-index: -1;
+}
+label {
+  position: relative;
+  display: block;
+  padding: 0 0 0 1em;
+  background: #5a090e;
+  font-weight: bold;
+  font-family: sans-serif;
+  line-height: 3;
+  cursor: pointer;
+  height: 45px;
+
+}
+label {
+  /* background: #5a090e; */
+  background: linear-gradient(#770c14, #660a10);
+}
+#tab-content {
+  font-family: sans-serif;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transition: max-height .35s;
+  -o-transition: max-height .35s;
+  transition: max-height .35s;
+  background: #5a090e;
+}
+#tab-content p{
+    margin: 1em;
+}
+
+/* :checked */
+input:checked ~ #tab-content {
+  max-height: 200em;
+}
+/* Icon */
+label::after {
+  position: absolute;
+  right: 0;
+  top: 0;
+  display: block;
+  width: 3em;
+  height: 3em;
+  line-height: 3;
+  text-align: center;
+  -webkit-transition: all .35s;
+  -o-transition: all .35s;
+  transition: all .35s;
+}
+input[type=checkbox] + label::after {
+  content: "+";
+}
+input[type=radio] + label::after {
+  content: "\25BC";
+}
+input[type=checkbox]:checked + label::after {
+  transform: rotate(315deg);
+}
+input[type=radio]:checked + label::after {
+  transform: rotateX(180deg);
+}
+
+.divider{
+  background-color: gray;
+  width: 585px;
+  height: 3px;
+  /* margin: 5px; */
+}
+.legendheading {
+  position: relative;
+  height: 25px;
+  padding: 5px 2px 0px 2px;
+  font-size: larger;
+  font-weight: bold;
+}
+.legenditem {
+  padding: 2px;
+  margin-bottom: 2px;
+}
+
+/*Marker clusters*/
+.marker-cluster-pie g.arc{
+  fill-opacity: 0.1;
+  cursor: pointer;
+}
+.marker-cluster-pie-label {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-shadow: 1px 1px 5px #f2efe9, 0 0 1em #f2efe9, 0 0 0.2em #f2efe9;
+  cursor: pointer;
+}
+
+/*Markers*/
+.marker {
+  width: 18px;
+  height: 18px;
+  border-width: 0.5px;
+  border-radius:10px;
+  margin-top: -10px;
+  margin-left: -10px;
+  border-style: solid;
+  fill: #CCC;
+  stroke: #444;
+  background: #CCC;
+  border-color: #444;
+  cursor: pointer;
+}
+.marker div{
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: sans-serif;
+  cursor: pointer;
+}
+
+/*marker categories*/
+.category-New{
+  fill: #6cb8f4;
+  stroke: black;
+  stroke-width: 0.5;
+  background: #6cb8f4;
+  border-color: black;
+  cursor: pointer;
+  /* box-shadow: 1px 1px 40px #888888; */
+}
+.category-Repeat{
+  fill: #7147f4;
+  stroke: black;
+  stroke-width: 0.5;
+  background: #7147f4;
+  /* border-color: black; */
+  cursor: pointer;
+  /* box-shadow: 1px 1px 40px #888888; */
+}
+/* -105.5722043,33.5453572
+-105.5722043,33.5448 */
+/*marker icons*/
+.icon-Schools{
+  background-image: url('library-15.svg');
+  background-repeat: no-repeat;
+  background-size: 15px 15px;
+  background-position: 1px 1px;
+}
+.icon-Municipalities{
+  background-image: url('town-hall-15.svg');
+  background-repeat: no-repeat;
+  background-size: 15px 14px;
+  background-position: 1.5px 1.9px;
+}
+.icon-Counties{
+  background-image: url('town-15.svg');
+  background-repeat: no-repeat;
+  background-position: 1.4px 1px;
+}
+.icon-State-Agencies{
+  background-image: url('landmark-15.svg');
+  background-repeat: no-repeat;
+  background-position: 1.3px 1px;
+}
+.icon-Other{
+  background-image: url('circle-stroked-15.svg');
+  background-repeat: no-repeat;
+  background-size: 13px 13px;
+  background-position: 2px 2px;
+}
+.icon-Higher-Education-Institutions{
+  background-image: url('college-15.svg');
+  background-repeat: no-repeat;
+  background-position: 1px 1px;
+}
+.icon-Regional-Educational-Cooperatives{
+  background-image: url('commercial-15.svg');
+  background-repeat: no-repeat;
+  background-position: 1.5px 0px;
+}
+.icon-Hospitals-Or-Special-Hospital-Districts{
+  background-image: url('hospital-15.svg');
+  background-repeat: no-repeat;
+  background-position: 1px 1px;
+}
+.icon-Courts{
+  background-image: url('courthouse.svg');
+  background-repeat: no-repeat;
+  background-size: 13px 15px;
+  background-position: 2px 0px;
+}
+.icon-District-Attorneys{
+  background-image: url('lawyer.svg');
+  background-repeat: no-repeat;
+  background-size: 15px 15px;
+  background-position: 1px 0px;
+}
+.icon-Independent-Housing-Authorities{
+  background-image: url('home-15.svg');
+  background-repeat: no-repeat;
+  background-position: 1px 0px;
+}
+.icon-Irrigation-Districts{
+  background-image: url('farm-15.svg');
+  background-repeat: no-repeat;
+  background-position: 1px 0px;
+}
+.icon-Water-And-Sanitation-Districts{
+  background-image: url('drinking-water-15.svg');
+  background-repeat: no-repeat;
+  background-position: 1px 0px;
+}
+.icon-Special-Districts{
+  background-image: url('star-stroked-15.svg');
+  background-repeat: no-repeat;
+  background-position: 1px 0px;
+}
+.icon-Soil-And-Water-Conservation-Districts{
+  background-image: url('dam-15.svg');
+  background-repeat: no-repeat;
+  background-position: 1px 0px;
+}
+.icon-School-District{
+  background-image: url('school-district.png');
+  background-repeat: no-repeat;
+  background-position: 1px 0px;
+}
+.icon-Mutual-Domestic-Water-Associations{
+  background-image: url('water.svg');
+  background-repeat: no-repeat;
+  background-position: 1px 0px;
+}
+.icon-Councils-Of-Government{
+  background-image: url('political.svg');
+  background-repeat: no-repeat;
+  background-size: 15px 15px;
+  background-position: 1px 1px;
+}
+/*Popup*/
+.map-popup span.heading {
+  display: block;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.map-popup span.attribute {
+  display: block;
+}
+.map-popup span.label {
+  font-weight: bold;
+}
