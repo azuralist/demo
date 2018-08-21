@@ -1,15 +1,16 @@
 #container {
-  width:600px;
+  width:587px;
   height:680px;
 }
 
 #map {
   width:585px;
   height:680px;
+  z-index: 0;
 }
 .filters {
   display: flex;
-  width:585px;
+  width:580px;
   height:250px;
   margin-top: 0px;
 }
@@ -26,6 +27,145 @@
   width: 165px;
   background: rgba(255,255,255,0.6);
 }
+#overlay {
+    position: fixed; /* Sit on top of the page content */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 390px; /* Full width (cover the whole page) */
+    height: 40px; /* Full height (cover the whole page) */
+    top: 10px;
+    left: 170px;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-color: rgba(0,0,0,0.1); /* Black background with opacity */
+    border-radius: 10px;
+    z-index: 1; /* Specify a stack order in case you're using a different order for other elements */
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none;   /* Safari */
+    -khtml-user-select: none;    /* Konqueror HTML */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* Internet Explorer/Edge */
+    user-select: none;           /* Non-prefixed version, currently
+                                 supported by Chrome and Opera */
+}
+
+/* Districts Selection */
+.switch-district {
+  font-family: "Roboto", Tahoma, Verdana, sans-serif;
+  padding: 6px;
+  overflow: hidden;
+  pointer-events: auto;
+}
+.switch-district input {
+  position: absolute !important;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  width: 1px;
+  border: 0;
+  overflow: hidden;
+}
+.switch-district label {
+  float: left;
+  display: inline-block;
+  width: 30px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 12px;
+  font-weight: normal;
+  text-shadow: none;
+  padding: 6px 18px;
+  padding-left: 13px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s linear;
+  -moz-transition:    all 0.1s linear;
+  -ms-transition:     all 0.1s linear;
+  -o-transition:      all 0.1s linear;
+  transition:         all 0.1s linear;
+}
+.switch-district label:hover {
+  cursor: pointer;
+}
+.switch-district input:checked + label {
+  background-color: #A5DC86;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.switch-district label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+.switch-district label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+/* Findings Selection */
+.switch-findings {
+  font-family: "Roboto", Tahoma, Verdana, sans-serif;
+  padding: 6px;
+  overflow: hidden;
+  pointer-events: auto;
+}
+.switch-findings input {
+  position: absolute !important;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  width: 1px;
+  border: 0;
+  overflow: hidden;
+}
+.switch-findings label {
+  float: left;
+  display: inline-block;
+  width: 40px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 12px;
+  font-weight: normal;
+  text-align: center;
+  padding: 6px 18px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s linear;
+  -moz-transition:    all 0.1s linear;
+  -ms-transition:     all 0.1s linear;
+  -o-transition:      all 0.1s linear;
+  transition:         all 0.1s linear;
+}
+.switch-findings label[for=switch_New]
+{
+    text-decoration: underline double #6cb8f4;
+}
+.switch-findings label[for=switch_Repeat]
+{
+    text-decoration: underline double #f47147;
+}
+/* .switch-findings label[for=switch_New]
+{
+    text-shadow: 0px 0px 5px #6cb8f4;
+}
+.switch-findings label[for=switch_Repeat]
+{
+    text-shadow: 0px 0px 5px #f47147;
+} */
+.switch-findings label:hover {
+  cursor: pointer;
+}
+.switch-findings input:checked + label {
+  background-color: #A5DC86;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.switch-findings label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+.switch-findings label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
 body {
   color: #2c3e50;
   background: #ecf0f1;
@@ -42,7 +182,7 @@ h1 {
   line-height: 1.7;
   padding:15px;
   width: 300px;
-  height: 180px;
+  height: auto;
   /* margin:15px; */
   border:1px solid #bbb;
 
@@ -63,12 +203,12 @@ h1 {
   color: #fff;
   overflow: hidden;
 }
-input {
+.tab input {
   position: absolute;
   opacity: 0;
   z-index: -1;
 }
-label {
+.tab label {
   position: relative;
   display: block;
   padding: 0 0 0 1em;
@@ -80,7 +220,7 @@ label {
   height: 45px;
 
 }
-label {
+.tab label {
   /* background: #5a090e; */
   background: linear-gradient(#770c14, #660a10);
 }
@@ -98,11 +238,11 @@ label {
 }
 
 /* :checked */
-input:checked ~ #tab-content {
+.tab input:checked ~ #tab-content {
   max-height: 200em;
 }
 /* Icon */
-label::after {
+.tab label::after {
   position: absolute;
   right: 0;
   top: 0;
@@ -115,18 +255,18 @@ label::after {
   -o-transition: all .35s;
   transition: all .35s;
 }
-input[type=checkbox] + label::after {
+.tab input[type=checkbox] + label::after {
   content: "+";
 }
-input[type=radio] + label::after {
+/* input[type=radio] + label::after {
   content: "\25BC";
+} */
+.tab input[type=checkbox]:checked + label::after {
+  transform: rotate(135deg);
 }
-input[type=checkbox]:checked + label::after {
-  transform: rotate(315deg);
-}
-input[type=radio]:checked + label::after {
+/* input[type=radio]:checked + label::after {
   transform: rotateX(180deg);
-}
+} */
 
 .divider{
   background-color: gray;
@@ -193,16 +333,15 @@ input[type=radio]:checked + label::after {
   /* box-shadow: 1px 1px 40px #888888; */
 }
 .category-Repeat{
-  fill: #7147f4;
+  fill: #f47147;
   stroke: black;
   stroke-width: 0.5;
-  background: #7147f4;
+  background: #f47147;
   /* border-color: black; */
   cursor: pointer;
   /* box-shadow: 1px 1px 40px #888888; */
 }
-/* -105.5722043,33.5453572
--105.5722043,33.5448 */
+
 /*marker icons*/
 .icon-Schools{
   background-image: url('library-15.svg');

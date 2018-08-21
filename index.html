@@ -6,6 +6,7 @@
   <link rel="stylesheet" href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' />
   <link rel="stylesheet" href="clusterpies.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
 </head>
 <body>
 <!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"/> -->
@@ -14,9 +15,25 @@
 <!-- <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js" charset="utf-8"></script> -->
 <!-- <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script> -->
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-
+<script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
 
 <div id="container">
+  <div id="overlay">
+    <div class="switch-district">
+      <input type="radio" id="switch_left" name="switch" value="House"/>
+      <label for="switch_left">House</label>
+      <input type="radio" id="switch_right" name="switch" value="Senate" />
+      <label for="switch_right">Senate</label>
+    </div>
+    <div class="switch-findings">
+      <input type="radio" id="switch_New" name="switch_2" value="New"/>
+      <label for="switch_New">New</label>
+      <input type="radio" id="switch_Both" name="switch_2" value="Both" checked/>
+      <label for="switch_Both">Both</label>
+      <input type="radio" id="switch_Repeat" name="switch_2" value="Repeat" />
+      <label for="switch_Repeat">Repeat</label>
+    </div>
+  </div>
   <div id="map">
   </div>
 </div>
@@ -26,21 +43,21 @@
   <div class="wrapper">
     <div id="half">
       <div class="tab">
-        <input id="tab-four" type="radio" name="tabs2">
+        <input id="tab-four" type="checkbox" name="tabs2">
         <label for="tab-four">2017-001</label>
         <div id="tab-content">
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p>
         </div>
       </div>
       <div class="tab">
-        <input id="tab-five" type="radio" name="tabs2">
+        <input id="tab-five" type="checkbox" name="tabs2">
         <label for="tab-five">2017-002</label>
         <div id="tab-content">
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p>
         </div>
       </div>
       <div class="tab">
-        <input id="tab-six" type="radio" name="tabs2">
+        <input id="tab-six" type="checkbox" name="tabs2">
         <label for="tab-six">2017-003</label>
         <div id="tab-content">
           <p>aaaaaaaa aaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaa aaaaaaaaaaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaa aaaaaaaa aaaaaaaaaaa aaaaaaaa aaaaaaaaaaLorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p>
@@ -70,7 +87,7 @@
       iconCreateFunction: defineClusterIcon, //this is where the magic happens
       zoomToBoundsOnClick: false,
     }),
-    map = L.map('map').setView([34.3, -106.5], 7);
+    map = L.map('map').setView([34.379712580462204, -106.04553222656251], 7);
 
     markerclusters.on('spiderfied unspiderfied', function (event) {
       // console.log(event.type);
@@ -109,6 +126,20 @@
         return myStyle;
       }
   }).addTo(map);
+  var geocoder = L.Control.geocoder({
+      defaultMarkGeocode: false,
+      position: "bottomright"
+      })
+      .on('markgeocode', function(e) {
+          var bbox = e.geocode.bbox;
+          var poly = L.polygon([
+               bbox.getSouthEast(),
+               bbox.getNorthEast(),
+               bbox.getNorthWest(),
+               bbox.getSouthWest()
+          ]).addTo(map);
+          map.fitBounds(poly.getBounds());
+      }).addTo(map);
 
   //Ready to go, load the geojson
   d3.json(geojsonPath, function(error, data) {
@@ -168,6 +199,27 @@ function fillTabDivs(e){
     console.log("Features: ")
     // console.log(data.properties);
     console.log(data.properties);
+    // my little html string builder
+    // var buildHTML = function(tag, html, attrs) {
+    //   // you can skip html param
+    //   if (typeof(html) != 'string') {
+    //     attrs = html;
+    //     html = null;
+    //   }
+    //   var h = '<' + tag;
+    //   for (attr in attrs) {
+    //     if(attrs[attr] === false) continue;
+    //     h += ' ' + attr + '="' + attrs[attr] + '"';
+    //   }
+    //   return h += html ? ">" + html + "</" + tag + ">" : "/>";
+    // },
+    // // TODO: FIX THIS ASAP
+    // html = buildHTML("input", {
+    //   id: inputId,
+    //   name: inputName,
+    //   type: inputType,
+    //   checked: isChecked,
+    // });
   }
 }
 
