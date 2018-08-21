@@ -352,8 +352,8 @@ h1 {
 .icon-Municipalities{
   background-image: url('town-hall-15.svg');
   background-repeat: no-repeat;
-  background-size: 15px 14px;
-  background-position: 1.5px 1.9px;
+  background-size: 13px 14px;
+  background-position: 1px 1px;
 }
 .icon-Counties{
   background-image: url('town-15.svg');
