@@ -79,37 +79,54 @@
     // popupFields = ['NeworRepeatFinding'], //Popup will display these fields
     infoFields = [],
     // tileServer = 'http://{s}.tile.openstreetmap.org/${z}/${x}/${y}.png',
-    tileServer = 'http://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
-    tileAttribution = 'Map data: <a href="http://openstreetmap.org">OSM</a>',
+    tileServer = 'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    tileAttribution = 'Map data: <a href="https://openstreetmap.org">OSM</a>',
     rmax = 30, //Maximum radius for cluster pies
     markerclusters = L.markerClusterGroup({
       maxClusterRadius: 2*rmax,
       iconCreateFunction: defineClusterIcon, //this is where the magic happens
       zoomToBoundsOnClick: false,
-    }),
-    map = L.map('map').setView([34.379712580462204, -106.04553222656251], 7);
+      animation: false,
+      spiderfyOnMaxZoom: true,
+    });
+    // map = L.map('map').setView([34.379712580462204, -106.04553222656251], 7);
+    var map = L.map('map', {
+    center: [34.379712580462204, -106.04553222656251],
+    zoom: 7,
+    zoomAnimation: true
+    });
 
     markerclusters.on('spiderfied unspiderfied', function (event) {
-      // console.log(event.type);
+      console.log(event.type);
+      var spidered = event.cluster;
       // console.log(event);
       var spiderStatus = event.type;
       if (event.type == 'spiderfied'){
         fillInfoDivs(event);
-        console.log(event);
         var currentTarget = event;
-        var spidered = event.cluster;
         var tabdiv = document.getElementById("half");
         tabdiv.innerHTML = "";
         for (var i = 0; i < event.markers.length; i++){
           // console.log(event.markers[i].feature.properties);
           fillTabDivs(event.markers[i].feature);
         }
+        markerclusters.zoomToShowLayer(event.cluster);
+        if (markerclusters.hasLayer(event.cluster)){
+          console.log("hasLayer: true");
+
+        }
+        console.log(event);
+        spidered.spiderfy();
       }
       else if (event.type == 'unspiderfied'){
-
+        var tabdiv = document.getElementById("half");
+        tabdiv.innerHTML = "";
       }
 
     });
+
+    // map.on("zoomstart", function (e) { console.log("ZOOMSTART", e); });
+    // map.on("zoomend", function (e) { console.log("ZOOMEND", e); });
 
   //Add basemap
   L.tileLayer(tileServer, {attribution: tileAttribution,  maxZoom: 16, zoomSnap: 0.5}).addTo(map);
@@ -164,6 +181,7 @@
           	// console.log('marker ' + e.layer);
             console.log(e.layer.feature.properties);
             console.log(e);
+            fillInfoDivSingle(e.layer.feature);
 
           });
           markerclusters.on('clusterclick', function (a) {
@@ -174,7 +192,10 @@
             // if (map.getZoom(); >
 
             map.fitBounds(bounds);
-            console.log(a.layer.getBounds())
+            console.log(a.layer.getBounds());
+            console.log(a);
+
+
           });
 
 
@@ -185,6 +206,7 @@
 
 function filterMarkers() {
 
+    markers.refreshClusters();
 }
 
 function fillInfoDivs(e){
@@ -195,6 +217,18 @@ function fillInfoDivs(e){
         + "<b>" + "Agency Number: " + "</b>" + data.markers[0].feature.properties.AgencyNumber + "<br>"
         + "<b>" + "Agency Type: " + "</b>" + fixedtype;
     fillTabDivs(data);
+}
+function fillInfoDivSingle(e){
+    var data = e;
+    var typedata = data.properties.AgencyType;
+    var fixedtype = typedata.replace(/-/g, ' ');
+    infoHeader.innerHTML = "<b>" + "Agency Name: " + "</b>" + "<br>" + data.properties.AgencyType + "<br>"
+        + "<b>" + "Agency Number: " + "</b>" + data.properties.AgencyType + "<br>"
+        + "<b>" + "Agency Type: " + "</b>" + fixedtype;
+    var tabdiv = document.getElementById("half");
+    tabdiv.innerHTML = "";
+
+    fillTabDiv(data);
 }
 
 function fillTabDivs(e){
@@ -217,6 +251,20 @@ function fillTabDivs(e){
     //                 + '<b>' + "Classification: " + '</b> <br>' + data.properties["Classification of Finding"] + '<br>'
     //                 + '<b>' + "Category: " + '</b> <br>' + data.properties["Category of Finding"] + '<br>'
     //                 + '<b>' + "Summary: " + '</b> <br>' + data.properties["Summary of Finding (250 characters max.)"] + '<br>' + '</p> </div> </div>'
+    }
+}
+
+function fillTabDiv(e){
+  var data = e;
+  if (data.properties != undefined){
+    var fNum = data.properties.FindingNumber;
+    var tabdiv = document.getElementById("half");
+    tabdiv.innerHTML += '<div class="tab"> <input id="' + data.properties.GUID + '" type="checkbox" name="tabs2" checked> <label for="' + data.properties.GUID + '">' + data.properties.FindingNumber + '</label> <div id="tab-content"> <p> <b>'
+                     + "This is a " + data.properties.NeworRepeatFinding.toLowerCase() + " finding." + '</b> <br>'
+                     + '<b>' + "Summary: " + '</b> <br>' + data.properties["Summary of Finding (250 characters max.)"] + '<br>' + '<br>'
+                     + '<b>' + "Audit Fiscal Year: " + '</b>' + data.properties.AuditFiscalYear + '<br>'
+                     + '<b>' + "Classification: " + '</b> <br>' + data.properties["Classification of Finding"] + '<br>'
+                     + '<b>' + "Category: " + '</b>' + data.properties["Category of Finding"] + '</p> </div> </div>'
     }
 }
 
