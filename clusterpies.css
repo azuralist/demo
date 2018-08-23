@@ -11,7 +11,7 @@
 .filters {
   display: flex;
   width:580px;
-  height:250px;
+  height:auto;
   margin-top: 0px;
 }
 #legend {
@@ -176,16 +176,17 @@ h1 {
 
 #infoHeader {
   font-weight: bold;
-  font-size: 16px;
+  font-size: 18px;
   font-family: sans-serif;
   font-weight: 400;
-  line-height: 1.7;
-  padding:15px;
+  color: #fff;
+  line-height: 1.6;
+  padding:10px;
   width: 300px;
   height: auto;
   /* margin:15px; */
   border:1px solid #bbb;
-
+  background: linear-gradient(#770c14, #660a10);
 }
 .wrapper{
 
@@ -225,13 +226,17 @@ h1 {
   background: linear-gradient(#770c14, #660a10);
 }
 #tab-content {
+  font-size: 16px;
   font-family: sans-serif;
+  font-weight: 200;
+  line-height: 1.7;
   max-height: 0;
   overflow: hidden;
   -webkit-transition: max-height .35s;
   -o-transition: max-height .35s;
   transition: max-height .35s;
   background: #5a090e;
+
 }
 #tab-content p{
     margin: 1em;

@@ -42,7 +42,7 @@
   </div>
   <div class="wrapper">
     <div id="half">
-      <div class="tab">
+      <!-- <div class="tab">
         <input id="tab-four" type="checkbox" name="tabs2">
         <label for="tab-four">2017-001</label>
         <div id="tab-content">
@@ -62,7 +62,7 @@
         <div id="tab-content">
           <p>aaaaaaaa aaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaa aaaaaaaaaaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaa aaaaaaaa aaaaaaaaaaa aaaaaaaa aaaaaaaaaaLorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </div>
@@ -95,7 +95,11 @@
       var spiderStatus = event.type;
       if (event.type == 'spiderfied'){
         fillInfoDivs(event);
+        console.log(event);
+        var currentTarget = event;
         var spidered = event.cluster;
+        var tabdiv = document.getElementById("half");
+        tabdiv.innerHTML = "";
         for (var i = 0; i < event.markers.length; i++){
           // console.log(event.markers[i].feature.properties);
           fillTabDivs(event.markers[i].feature);
@@ -196,31 +200,24 @@ function fillInfoDivs(e){
 function fillTabDivs(e){
   var data = e;
   if (data.properties != undefined){
-    console.log("Features: ")
-    // console.log(data.properties);
-    console.log(data.properties);
-    // my little html string builder
-    // var buildHTML = function(tag, html, attrs) {
-    //   // you can skip html param
-    //   if (typeof(html) != 'string') {
-    //     attrs = html;
-    //     html = null;
-    //   }
-    //   var h = '<' + tag;
-    //   for (attr in attrs) {
-    //     if(attrs[attr] === false) continue;
-    //     h += ' ' + attr + '="' + attrs[attr] + '"';
-    //   }
-    //   return h += html ? ">" + html + "</" + tag + ">" : "/>";
-    // },
-    // // TODO: FIX THIS ASAP
-    // html = buildHTML("input", {
-    //   id: inputId,
-    //   name: inputName,
-    //   type: inputType,
-    //   checked: isChecked,
-    // });
-  }
+    var fNum = data.properties.FindingNumber;
+    var tabdiv = document.getElementById("half");
+    tabdiv.innerHTML += '<div class="tab"> <input id="' + data.properties.GUID + '" type="checkbox" name="tabs2"> <label for="' + data.properties.GUID + '">' + data.properties.FindingNumber + '</label> <div id="tab-content"> <p> <b>'
+                     + "This is a " + data.properties.NeworRepeatFinding.toLowerCase() + " finding." + '</b> <br>'
+                     + '<b>' + "Summary: " + '</b> <br>' + data.properties["Summary of Finding (250 characters max.)"] + '<br>' + '<br>'
+                     + '<b>' + "Audit Fiscal Year: " + '</b>' + data.properties.AuditFiscalYear + '<br>'
+                     + '<b>' + "Classification: " + '</b> <br>' + data.properties["Classification of Finding"] + '<br>'
+                     + '<b>' + "Category: " + '</b>' + data.properties["Category of Finding"] + '</p> </div> </div>'
+
+    // Old, below.
+    // tabdiv.innerHTML += '<div class="tab"> <input id="' + data.properties.GUID + '" type="checkbox" name="tabs2"> <label for="' + data.properties.GUID + '">' + data.properties.FindingNumber + '</label> <div id="tab-content"> <p> <b>' + "Audit Fiscal Year: " + '</b> <br>' + data.properties.AuditFiscalYear + '<br>'
+    //                 + '<b>' + "Opinion: " + + '</b> <br>' + data.properties.FinancialStatementOpinion  + '<br>'
+    //                 + '<b>' + "New or Repeat: " + '</b> <br>' + data.properties.NeworRepeatFinding + '<br>'
+    //                 + '<b>' + "Year Finding Originated: " + '</b> <br>' + data.properties["Year Finding Originated"] + '<br>'
+    //                 + '<b>' + "Classification: " + '</b> <br>' + data.properties["Classification of Finding"] + '<br>'
+    //                 + '<b>' + "Category: " + '</b> <br>' + data.properties["Category of Finding"] + '<br>'
+    //                 + '<b>' + "Summary: " + '</b> <br>' + data.properties["Summary of Finding (250 characters max.)"] + '<br>' + '</p> </div> </div>'
+    }
 }
 
 
