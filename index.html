@@ -42,27 +42,6 @@
   </div>
   <div class="wrapper">
     <div id="half">
-      <!-- <div class="tab">
-        <input id="tab-four" type="checkbox" name="tabs2">
-        <label for="tab-four">2017-001</label>
-        <div id="tab-content">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p>
-        </div>
-      </div>
-      <div class="tab">
-        <input id="tab-five" type="checkbox" name="tabs2">
-        <label for="tab-five">2017-002</label>
-        <div id="tab-content">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p>
-        </div>
-      </div>
-      <div class="tab">
-        <input id="tab-six" type="checkbox" name="tabs2">
-        <label for="tab-six">2017-003</label>
-        <div id="tab-content">
-          <p>aaaaaaaa aaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaa aaaaaaaaaaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaa aaaaaaaa aaaaaaaaaaa aaaaaaaa aaaaaaaaaaLorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p>
-        </div>
-      </div> -->
     </div>
   </div>
 </div>
@@ -112,7 +91,8 @@
         }
         if (markerclusters.hasLayer(event.cluster)){
           console.log("hasLayer: true");
-
+          // var bounds = event.cluster.getBounds().pad(0.05);
+          // map.fitBounds(bounds);
         }
         console.log(event);
         spidered.spiderfy();
@@ -197,8 +177,6 @@
             fillInfoDivSingle(e.layer.feature);
           });
           markerclusters.on('clusterclick', function (a) {
-            // var bounds = a.layer.getBounds().pad(0.05);
-            // map.fitBounds(bounds);
             console.log(a.layer.getBounds());
             console.log(a);
           });
@@ -207,9 +185,18 @@
       }
   });
 
-function filterMarkers() {
+document.getElementById("switch_New").addEventListener("click", filterMarkers("New"));
+document.getElementById("switch_Both").addEventListener("click", filterMarkers(""));
+document.getElementById("switch_Repeat").addEventListener("click", filterMarkers("Repeat"));
 
-    markers.refreshClusters();
+function filterMarkers(f) {
+    var markers = L.geoJson(geojson, {filter: Filter}).addTo(map);
+    function Filter(feature) {
+    if (feature.properties['NeworRepeatFinding'] === f) return true
+    }
+    console.log(markers);
+    markerclusters.addLayer(markers);
+    markerclusters.refreshClusters();
 }
 
 function fillInfoDivs(e){
