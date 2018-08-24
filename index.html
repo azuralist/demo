@@ -20,15 +20,15 @@
 <div id="container">
   <div id="overlay">
     <div class="switch-district">
-      <input type="radio" id="switch_left" name="switch" value="House"/>
+      <input type="radio" id="switch_left" name="switch" value="House" onchange="hLayer()"/>
       <label for="switch_left">House</label>
-      <input type="radio" id="switch_right" name="switch" value="Senate" />
+      <input type="radio" id="switch_right" name="switch" value="Senate" onchange="sLayer()"/>
       <label for="switch_right">Senate</label>
     </div>
     <div class="switch-findings">
       <input type="radio" id="switch_New" name="switch_2" value="New" onchange="filterMarkers('New')"/>
       <label id="switchTest" for="switch_New">New</label>
-      <input type="radio" id="switch_Both" name="switch_2" value="Both" checked onchange="filterMarkers('')"/>
+      <input type="radio" id="switch_Both" name="switch_2" value="Both" checked onchange="filterMarkers('Both')"/>
       <label for="switch_Both">Both</label>
       <input type="radio" id="switch_Repeat" name="switch_2" value="Repeat" onchange="filterMarkers('Repeat')"/>
       <label for="switch_Repeat">Repeat</label>
@@ -61,6 +61,34 @@
     tileServer = 'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
     tileAttribution = 'Map data: <a href="https://openstreetmap.org">OSM</a>',
     rmax = 32, //Maximum radius for cluster pies
+    houseDistrictLayer = L.geoJSON(houseDistricts, {
+      style: function(feature) {
+          var index = feature.properties.Name - 1;
+          var myStyle = {
+            "fillColor": colors[index],
+            "fillOpacity": 0.15,
+            "color": "#777",
+            "weight": 2,
+            "opacity": 0.4,
+            "dropShadow": true,
+          }
+          return myStyle;
+        }
+    }),
+    senateDistrictLayer = L.geoJSON(senateDistricts, {
+      style: function(feature) {
+          var index = feature.properties.Name - 1;
+          var myStyle = {
+            "fillColor": colors[index],
+            "fillOpacity": 0.15,
+            "color": "#777",
+            "weight": 2,
+            "opacity": 0.4,
+            "dropShadow": true,
+          }
+          return myStyle;
+        }
+    }),
     markerclusters = L.markerClusterGroup({
       maxClusterRadius: 2*rmax,
       iconCreateFunction: defineClusterIcon, //this is where the magic happens
@@ -74,6 +102,7 @@
     zoom: 7,
     zoomAnimation: true
     });
+    // var districts = L.layerGroup([houseDistrictLayer, senateDistrictLayer]);
 
     markerclusters.on('spiderfied unspiderfied', function (event) {
       console.log(event.type);
@@ -88,11 +117,6 @@
         for (var i = 0; i < event.markers.length; i++){
           // console.log(event.markers[i].feature.properties);
           fillTabDivs(event.markers[i].feature);
-        }
-        if (markerclusters.hasLayer(event.cluster)){
-          console.log("hasLayer: true");
-          // var bounds = event.cluster.getBounds().pad(0.05);
-          // map.fitBounds(bounds);
         }
         console.log(event);
         spidered.spiderfy();
@@ -109,24 +133,10 @@
     // map.on("zoomend", function (e) { console.log("ZOOMEND", e); });
 
   //Add basemap
-  L.tileLayer(tileServer, {attribution: tileAttribution,  maxZoom: 16, zoomSnap: 0.5}).addTo(map);
+  L.tileLayer(tileServer, {attribution: tileAttribution,  maxZoom: 20, zoomSnap: 0.5}).addTo(map);
   //and the empty markercluster layer
   map.addLayer(markerclusters);
-  //and the district Layert
-  var districtLayer = L.geoJSON(houseDistricts, {
-    style: function(feature) {
-        var index = feature.properties.Name - 1;
-        var myStyle = {
-          "fillColor": colors[index],
-          "fillOpacity": 0.15,
-          "color": "#777",
-          "weight": 2,
-          "opacity": 0.4,
-          "dropShadow": true,
-        }
-        return myStyle;
-      }
-  }).addTo(map);
+  //and the geocoder search button
   var geocoder = L.Control.geocoder({
       defaultMarkGeocode: false,
       position: "bottomright"
@@ -141,7 +151,7 @@
           ]).addTo(map);
           map.fitBounds(poly.getBounds());
       }).addTo(map);
-
+  // District Radio Button function to handle unclicking (unselecting)
   var allRadios = document.getElementsByName('switch');
   var booRadio;
   var x = 0;
@@ -150,6 +160,8 @@
       if(booRadio == this){
         this.checked = false;
         booRadio = null;
+        map.removeLayer(senateDistrictLayer);
+        map.removeLayer(houseDistrictLayer);
       } else {
         booRadio = this;
       }
@@ -160,8 +172,6 @@
   d3.json(geojsonPath, function(error, data) {
       if (!error) {
           geojson = data;
-          // metadata = data.properties;
-          // Add filters
           var markers = L.geoJson(geojson, {
       			pointToLayer: defineFeature,
       			onEachFeature: defineFeaturePopup
@@ -171,7 +181,6 @@
           // map.attributionControl.addAttribution(metadata.attribution);
           // renderLegend();
           markers.on('click', function (e) {
-          	// console.log('marker ' + e.layer);
             console.log(e.layer.feature.properties);
             console.log(e);
             fillInfoDivSingle(e.layer.feature);
@@ -179,17 +188,53 @@
           markerclusters.on('clusterclick', function (a) {
             console.log(a.layer.getBounds());
             console.log(a);
+            var bounds = a.layer.getBounds();
+            map.fitBounds(bounds, {padding: [5, 5]});
           });
       } else {
 	  console.log('Could not load data...');
       }
   });
 
+function hLayer(){
+    if (map.hasLayer(senateDistrictLayer)){
+      map.removeLayer(senateDistrictLayer);
+      map.addLayer(houseDistrictLayer);
+    }
+    else if (document.getElementById('switch_left').checked){
+      map.addLayer(houseDistrictLayer);
+    }
+    else {
+      map.removeLayer(houseDistrictLayer);
+    }
+}
+function sLayer(){
+  if (map.hasLayer(houseDistrictLayer)){
+    map.removeLayer(houseDistrictLayer);
+    map.addLayer(senateDistrictLayer);
+  }
+  else if (document.getElementById('switch_right').checked){
+    map.addLayer(senateDistrictLayer);
+  }
+  else {
+    map.removeLayer(senateDistrictLayer);
+  }
+}
+
 function filterMarkers(f) {
-  console.log(f)
-    var markers = L.geoJson(geojson, {filter: Filter}).addTo(map);
+    markerclusters.clearLayers();
+    var markers = L.geoJson(geojson, {
+      filter: Filter,
+      pointToLayer: defineFeature,
+      onEachFeature: defineFeaturePopup
+    });
     function Filter(feature) {
-    if (feature.properties['NeworRepeatFinding'] === f) return true
+    if (f == "Both") {
+      return true;
+      }
+    else if (feature.properties['NeworRepeatFinding'] === f) {
+      return true
+      }
     }
     markerclusters.addLayer(markers);
     markerclusters.refreshClusters();
