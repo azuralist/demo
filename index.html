@@ -251,7 +251,7 @@ function fillInfoDivs(e){
     var data = e;
     var typedata = data.markers[0].feature.properties.AgencyType;
     var fixedtype = typedata.replace(/-/g, ' ');
-    infoHeader.innerHTML = "<b>" + "Agency Name: " + "</b>" + "<br>" + data.markers[0].feature.properties.AgencyName + "<br>"
+    infoHeader.innerHTML = "<b>" + "Agency Name: " + "</b>" + "<br>" + data.markers[0].feature.properties.findingLocation + "<br>"
         + "<b>" + "Agency Number: " + "</b>" + data.markers[0].feature.properties.AgencyNumber + "<br>"
         + "<b>" + "Agency Type: " + "</b>" + fixedtype;
     fillTabDivs(data);
