@@ -266,15 +266,15 @@ h1 {
 .tab input[type=checkbox] + label::after {
   content: "+";
 }
-/* input[type=radio] + label::after {
+.tab input[type=radio] + label::after {
   content: "\25BC";
-} */
+}
 .tab input[type=checkbox]:checked + label::after {
   transform: rotate(135deg);
 }
-/* input[type=radio]:checked + label::after {
+.tab input[type=radio]:checked + label::after {
   transform: rotateX(180deg);
-} */
+}
 
 .divider{
   background-color: gray;
@@ -437,7 +437,7 @@ h1 {
   background-position: 1px 0px;
 }
 .icon-Mutual-Domestic-Water-Associations{
-  background-image: url('water.svg');
+  background-image: url('water-15.svg');
   background-repeat: no-repeat;
   background-position: 1px 0px;
 }
