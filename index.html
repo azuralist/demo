@@ -26,11 +26,11 @@
       <label for="switch_right">Senate</label>
     </div>
     <div class="switch-findings">
-      <input type="radio" id="switch_New" name="switch_2" value="New"/>
-      <label for="switch_New">New</label>
-      <input type="radio" id="switch_Both" name="switch_2" value="Both" checked/>
+      <input type="radio" id="switch_New" name="switch_2" value="New" onchange="filterMarkers('New')"/>
+      <label id="switchTest" for="switch_New">New</label>
+      <input type="radio" id="switch_Both" name="switch_2" value="Both" checked onchange="filterMarkers('')"/>
       <label for="switch_Both">Both</label>
-      <input type="radio" id="switch_Repeat" name="switch_2" value="Repeat" />
+      <input type="radio" id="switch_Repeat" name="switch_2" value="Repeat" onchange="filterMarkers('Repeat')"/>
       <label for="switch_Repeat">Repeat</label>
     </div>
   </div>
@@ -185,19 +185,19 @@
       }
   });
 
-document.getElementById("switch_New").addEventListener("click", filterMarkers("New"));
-document.getElementById("switch_Both").addEventListener("click", filterMarkers(""));
-document.getElementById("switch_Repeat").addEventListener("click", filterMarkers("Repeat"));
-
 function filterMarkers(f) {
+  console.log(f)
     var markers = L.geoJson(geojson, {filter: Filter}).addTo(map);
     function Filter(feature) {
     if (feature.properties['NeworRepeatFinding'] === f) return true
     }
-    console.log(markers);
     markerclusters.addLayer(markers);
     markerclusters.refreshClusters();
 }
+
+// document.querySelector('#switchTest').addEventListener('change', filterMarkers("New"));
+// document.getElementById("switch_Both").addEventListener("click", filterMarkers(""));
+// document.getElementById("switch_Repeat").addEventListener("click", filterMarkers("Repeat"));
 
 function fillInfoDivs(e){
     var data = e;
