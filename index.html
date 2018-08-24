@@ -94,7 +94,6 @@
       iconCreateFunction: defineClusterIcon, //this is where the magic happens
       zoomToBoundsOnClick: true,
       animation: false,
-      // spiderfyOnMaxZoom: true,
     });
 
     var map = L.map('map', {
@@ -133,7 +132,7 @@
     // map.on("zoomend", function (e) { console.log("ZOOMEND", e); });
 
   //Add basemap
-  L.tileLayer(tileServer, {attribution: tileAttribution,  maxZoom: 20, zoomSnap: 0.5}).addTo(map);
+  L.tileLayer(tileServer, {attribution: tileAttribution,  maxZoom: 18, zoomSnap: 0}).addTo(map);
   //and the empty markercluster layer
   map.addLayer(markerclusters);
   //and the geocoder search button
@@ -188,11 +187,15 @@
           markerclusters.on('clusterclick', function (a) {
             console.log(a.layer.getBounds());
             console.log(a);
-            var bounds = a.layer.getBounds();
-            map.fitBounds(bounds, {padding: [5, 5]});
+            // var bounds = a.layer.getBounds();
+            // map.fitBounds(bounds, {padding: [5, 5]});
+            // setTimeout(function(){
+            //   var bounds = a.layer.getBounds();
+            //   map.fitBounds(bounds, {padding: [5, 5]});
+            // }, 300);
           });
       } else {
-	  console.log('Could not load data...');
+	       console.log('Could not load data...');
       }
   });
 
