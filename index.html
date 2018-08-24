@@ -150,6 +150,7 @@
           ]).addTo(map);
           map.fitBounds(poly.getBounds());
       }).addTo(map);
+
   // District Radio Button function to handle unclicking (unselecting)
   var allRadios = document.getElementsByName('switch');
   var booRadio;
@@ -242,6 +243,14 @@ function filterMarkers(f) {
     markerclusters.addLayer(markers);
     markerclusters.refreshClusters();
 }
+function toTitleCase(str) {
+    return str.replace(
+        /\w\S*/g,
+        function(txt) {
+            return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+        }
+    );
+}
 
 // document.querySelector('#switchTest').addEventListener('change', filterMarkers("New"));
 // document.getElementById("switch_Both").addEventListener("click", filterMarkers(""));
@@ -260,8 +269,8 @@ function fillInfoDivSingle(e){
     var data = e;
     var typedata = data.properties.AgencyType;
     var fixedtype = typedata.replace(/-/g, ' ');
-    infoHeader.innerHTML = "<b>" + "Agency Name: " + "</b>" + "<br>" + data.properties.AgencyType + "<br>"
-        + "<b>" + "Agency Number: " + "</b>" + data.properties.AgencyType + "<br>"
+    infoHeader.innerHTML = "<b>" + "Agency Name: " + "</b>" + "<br>" + data.properties.findingLocation + "<br>"
+        + "<b>" + "Agency Number: " + "</b>" + data.properties.AgencyNumber + "<br>"
         + "<b>" + "Agency Type: " + "</b>" + fixedtype;
     var tabdiv = document.getElementById("half");
     tabdiv.innerHTML = "";
