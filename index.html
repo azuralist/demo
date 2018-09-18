@@ -182,8 +182,8 @@
             // e.layer.zoomToBounds({padding: [20, 20]});
             var hdLayer = houseDistrictLayer;
             var sdLayer = senateDistrictLayer;
-            var hdresult = leafletPip.pointInLayer(e.layer.feature.markers[0].feature.geometry.coordinates, hdLayer, true);
-            var sdresult = leafletPip.pointInLayer(e.layer.feature.markers[0].feature.geometry.coordinates, sdLayer, true);
+            var hdresult = leafletPip.pointInLayer(e.layer.feature.geometry.coordinates, hdLayer, true);
+            var sdresult = leafletPip.pointInLayer(e.layer.feature.geometry.coordinates, sdLayer, true);
             fillInfoDivSingle(e.layer.feature, hdresult, sdresult);
           });
           markerclusters.on('preclick', function (a) {
