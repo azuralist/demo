@@ -41014,29 +41014,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9392985,35.68211751 ]
-    },
-    "properties": {
-    "GUID":1784,
-    "AgencyNumber":"131-C",
-    "AgencyName":"Legislature-Capitol Kitchen Fund #81100",
-    "AgencyType":"State-Agencies",
-    "AuditFiscalYear":2017,
-    "FinancialStatementOpinion":"Unmodified",
-    "FindingNumber":"2017-001",
-    "NeworRepeatFinding":"New",
-    "Year Finding Originated":"",
-    "Classification of Finding":"Finding that does not rise to the level of significant deficiency",
-    "Category of Finding":"Cash and Investments",
-    "Summary of Finding (250 characters max.)":"Internal control over cash deposits (weakness in internal control)",
-    "findingLocation":"Legislature-Capitol Kitchen Fund #81100",
-    "Entity Address":"490 Old Santa Fe Trail, Santa Fe, NM, 87501"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -105.940082,35.6842725 ]
     },
     "properties": {
