@@ -41239,6 +41239,3847 @@
     "findingLocation":"Tucumcari Housing Authority",
     "Entity Address":"215 E Center St, Tucumcari, NM, 88401"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68196,-105.93882 ]
+    },
+    "properties": {
+    "GUID":1795,
+    "AgencyNumber":"111",
+    "AgencyName":"Legislative Council Service",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Legislative Council Service",
+    "Entity Address":"490 Old Santa Fe Trail, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6837,-105.94009 ]
+    },
+    "properties": {
+    "GUID":1796,
+    "AgencyNumber":"112",
+    "AgencyName":"Legislative Finance Committee",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Legislative Finance Committee",
+    "Entity Address":"490 Old Santa Fe Trail, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68196,-105.93882 ]
+    },
+    "properties": {
+    "GUID":1797,
+    "AgencyNumber":"131",
+    "AgencyName":"Legislature Fund #13300",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Legislature Fund #13300",
+    "Entity Address":"490 Old Santa Fe Trail, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.63775,-106.02458 ]
+    },
+    "properties": {
+    "GUID":1798,
+    "AgencyNumber":"208",
+    "AgencyName":"New Mexico Compilation Commission",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New Mexico Compilation Commission",
+    "Entity Address":"237 Don Gaspar Ave, Santa Fe, NM, 87506"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.09131,-106.64691 ]
+    },
+    "properties": {
+    "GUID":1799,
+    "AgencyNumber":"210",
+    "AgencyName":"Judicial Standards Commission",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Judicial Standards Commission",
+    "Entity Address":"111 Lomas Blvd NW, Albuquerque, NM, 87125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68458,-105.93968 ]
+    },
+    "properties": {
+    "GUID":1800,
+    "AgencyNumber":"216",
+    "AgencyName":"New Mexico Supreme Court",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New Mexico Supreme Court",
+    "Entity Address":"237 Don Gaspar Ave, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68504,-105.94368 ]
+    },
+    "properties": {
+    "GUID":1801,
+    "AgencyNumber":"231",
+    "AgencyName":"First Judicial District Court",
+    "AgencyType":"Courts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"First Judicial District Court",
+    "Entity Address":"225 Montezuma Ave, Santa Fe, NM, 87504"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0907,-106.65114 ]
+    },
+    "properties": {
+    "GUID":1802,
+    "AgencyNumber":"232",
+    "AgencyName":"Second Judicial District Court",
+    "AgencyType":"Courts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Second Judicial District Court",
+    "Entity Address":"400 Lomas Blvd. NW, Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.31558,-106.78268 ]
+    },
+    "properties": {
+    "GUID":1803,
+    "AgencyNumber":"233",
+    "AgencyName":"Third Judicial District Court",
+    "AgencyType":"Courts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Third Judicial District Court",
+    "Entity Address":"201 W. Picacho, Las Cruces, NM, 88005"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.59188,-105.22995 ]
+    },
+    "properties": {
+    "GUID":1804,
+    "AgencyNumber":"234",
+    "AgencyName":"Fourth Judicial District Court",
+    "AgencyType":"Courts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Fourth Judicial District Court",
+    "Entity Address":"496 West National, Las Vegas, NM, 87701"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.94864,-103.348 ]
+    },
+    "properties": {
+    "GUID":1805,
+    "AgencyNumber":"235",
+    "AgencyName":"Fifth Judicial District Court",
+    "AgencyType":"Courts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Fifth Judicial District Court",
+    "Entity Address":"400 N. Virginia St, Roswell, NM, 88202"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.7702,-108.2808 ]
+    },
+    "properties": {
+    "GUID":1806,
+    "AgencyNumber":"236",
+    "AgencyName":"Sixth Judicial District Court",
+    "AgencyType":"Courts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Sixth Judicial District Court",
+    "Entity Address":"201 N Cooper St, Silver City, NM, 88062"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.39698,-105.57617 ]
+    },
+    "properties": {
+    "GUID":1807,
+    "AgencyNumber":"238",
+    "AgencyName":"Eighth Judicial District Court",
+    "AgencyType":"Courts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Eighth Judicial District Court",
+    "Entity Address":"105 Albright Street, Taos, NM, 87571"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.40521,-103.2057 ]
+    },
+    "properties": {
+    "GUID":1808,
+    "AgencyNumber":"239",
+    "AgencyName":"Ninth Judicial District Court",
+    "AgencyType":"Courts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Ninth Judicial District Court",
+    "Entity Address":"700 North Main Street, Clovis, NM, 88101"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.76145,-93.0884 ]
+    },
+    "properties": {
+    "GUID":1809,
+    "AgencyNumber":"240",
+    "AgencyName":"Tenth Judicial District Court",
+    "AgencyType":"Courts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Tenth Judicial District Court",
+    "Entity Address":"300 S. 3rd Street, Tucumcari, NM, 88401"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.90027,-105.95844 ]
+    },
+    "properties": {
+    "GUID":1810,
+    "AgencyNumber":"242",
+    "AgencyName":"Twelfth Judicial District Court",
+    "AgencyType":"Courts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Twelfth Judicial District Court",
+    "Entity Address":"1000 New York Ave, Alamogordo, NM, 88310"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.78643,-106.74192 ]
+    },
+    "properties": {
+    "GUID":1811,
+    "AgencyNumber":"243",
+    "AgencyName":"Thirteenth Judicial District Court",
+    "AgencyType":"Courts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Thirteenth Judicial District Court",
+    "Entity Address":"1835 NM-314, Los Lunas, NM, 87031"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.09204,-106.6497 ]
+    },
+    "properties": {
+    "GUID":1812,
+    "AgencyNumber":"244",
+    "AgencyName":"Bernalillo County Metropolitan Court",
+    "AgencyType":"Courts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Bernalillo County Metropolitan Court",
+    "Entity Address":"401 Lomas NW, Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68523,-105.94342 ]
+    },
+    "properties": {
+    "GUID":1813,
+    "AgencyNumber":"251",
+    "AgencyName":"First Judicial District Attorney",
+    "AgencyType":"District-Attorneys",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"First Judicial District Attorney",
+    "Entity Address":"327 Sandoval Street, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.09092,-106.6525 ]
+    },
+    "properties": {
+    "GUID":1814,
+    "AgencyNumber":"252",
+    "AgencyName":"Office of the Second Judicial District Attorney",
+    "AgencyType":"District-Attorneys",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Office of the Second Judicial District Attorney",
+    "Entity Address":"520 Lomas Blvd, NW, Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.59137,-105.23078 ]
+    },
+    "properties": {
+    "GUID":1815,
+    "AgencyNumber":"254",
+    "AgencyName":"Fourth Judicial District Attorney",
+    "AgencyType":"District-Attorneys",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Fourth Judicial District Attorney",
+    "Entity Address":"1800 New Mexico Avenue, Las Vegas, NM, 87701"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.09092,-106.6525 ]
+    },
+    "properties": {
+    "GUID":1816,
+    "AgencyNumber":"256",
+    "AgencyName":"Sixth District Attorney",
+    "AgencyType":"District-Attorneys",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Sixth District Attorney",
+    "Entity Address":"201 N. Cooper St., Silver City, NM, 88062"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.77299,-106.05556 ]
+    },
+    "properties": {
+    "GUID":1817,
+    "AgencyNumber":"257",
+    "AgencyName":"SEVENTH JUDICIAL DISTRICT ATTORNEY",
+    "AgencyType":"District-Attorneys",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"SEVENTH JUDICIAL DISTRICT ATTORNEY",
+    "Entity Address":"302 Park Street, Socorro, NM, 87801"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.09092,-106.6525 ]
+    },
+    "properties": {
+    "GUID":1818,
+    "AgencyNumber":"258",
+    "AgencyName":"Eigth Judicial District Attorney",
+    "AgencyType":"District-Attorneys",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Eigth Judicial District Attorney",
+    "Entity Address":"105 Albright Street, Taos, NM, 87571"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.17575,-103.71275 ]
+    },
+    "properties": {
+    "GUID":1819,
+    "AgencyNumber":"260",
+    "AgencyName":"Tenth Judicial District Attorney",
+    "AgencyType":"District-Attorneys",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Tenth Judicial District Attorney",
+    "Entity Address":"1110 East High Street, Tucumcari, NM, 88401"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.09024,-95.71289 ]
+    },
+    "properties": {
+    "GUID":1820,
+    "AgencyNumber":"261",
+    "AgencyName":"Eleveth Judicial District Attorney, Division I",
+    "AgencyType":"District-Attorneys",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Eleveth Judicial District Attorney, Division I",
+    "Entity Address":"335 South Miller Avenue, Farmington, NM, 87401"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.90027,-105.95844 ]
+    },
+    "properties": {
+    "GUID":1821,
+    "AgencyNumber":"262",
+    "AgencyName":"Twelfth Judicial District Attorney",
+    "AgencyType":"District-Attorneys",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Twelfth Judicial District Attorney",
+    "Entity Address":"1000 New York Avenue, Alamogordo, NM, 88310"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.78643,-106.74192 ]
+    },
+    "properties": {
+    "GUID":1822,
+    "AgencyNumber":"263",
+    "AgencyName":"Thirteenth Judicial District Attorney",
+    "AgencyType":"District-Attorneys",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Thirteenth Judicial District Attorney",
+    "Entity Address":"711 Camino Del Pueblo Sur, Bernalillo, NM, 87004"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.08324,-106.65503 ]
+    },
+    "properties": {
+    "GUID":1823,
+    "AgencyNumber":"264",
+    "AgencyName":"Administrative Office of the District Attorneys",
+    "AgencyType":"District-Attorneys",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Administrative Office of the District Attorneys",
+    "Entity Address":"625 Silver Ave, Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1824,
+    "AgencyNumber":"265",
+    "AgencyName":"Eleventh Judicial District Attorney Division II",
+    "AgencyType":"District-Attorneys",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Eleventh Judicial District Attorney Division II",
+    "Entity Address":"201 West Hill Ave., Gallup, NM, 87301"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.69124,-105.94469 ]
+    },
+    "properties": {
+    "GUID":1825,
+    "AgencyNumber":"280",
+    "AgencyName":"Law Office of the Public Defender",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Law Office of the Public Defender",
+    "Entity Address":"301 N Guadalupe St., Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.08602,-106.6507 ]
+    },
+    "properties": {
+    "GUID":1826,
+    "AgencyNumber":"305",
+    "AgencyName":"Office of Attorney General ",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Office of Attorney General ",
+    "Entity Address":"408 Galisteo Street, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1827,
+    "AgencyNumber":"306",
+    "AgencyName":"State General Fund",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"State General Fund",
+    "Entity Address":"407 Galisteo St., Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.63235,-106.02633 ]
+    },
+    "properties": {
+    "GUID":1828,
+    "AgencyNumber":"308",
+    "AgencyName":"Office of the State Auditor",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Office of the State Auditor",
+    "Entity Address":"2540 Camino Edward Ortiz, Santa Fe, NM, 87507"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.60874,-106.03974 ]
+    },
+    "properties": {
+    "GUID":1829,
+    "AgencyNumber":"337",
+    "AgencyName":"State Investment Council",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"State Investment Council",
+    "Entity Address":"41 Plaza La Prensa, Santa Fe, NM, 87507"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1830,
+    "AgencyNumber":"340",
+    "AgencyName":"State of New Mexico Administrative Hearings Office",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"State of New Mexico Administrative Hearings Office",
+    "Entity Address":"1220 S. St. Francis Drive, Santa Fe, NM, 87502"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.69244,-105.9386 ]
+    },
+    "properties": {
+    "GUID":1831,
+    "AgencyNumber":"342",
+    "AgencyName":"New Mexico Public School Insurance Authority",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New Mexico Public School Insurance Authority",
+    "Entity Address":"410 Old Taos Highway, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.67413,-105.9517 ]
+    },
+    "properties": {
+    "GUID":1832,
+    "AgencyNumber":"352",
+    "AgencyName":"NM Educational Retirement Board",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"NM Educational Retirement Board",
+    "Entity Address":"701 Camino De Los Marquez, Santa Fe, NM, 87505"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.69202,-105.93873 ]
+    },
+    "properties": {
+    "GUID":1833,
+    "AgencyNumber":"360",
+    "AgencyName":"Office of the Lieutenant Governor",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Office of the Lieutenant Governor",
+    "Entity Address":"490 Old Santa Fe Trail, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.60765,-106.04004 ]
+    },
+    "properties": {
+    "GUID":1834,
+    "AgencyNumber":"366",
+    "AgencyName":"PERA ",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"PERA ",
+    "Entity Address":"33 Plaza La Prensa, Santa Fe, NM, 87507"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.65674,-105.98403 ]
+    },
+    "properties": {
+    "GUID":1835,
+    "AgencyNumber":"369",
+    "AgencyName":"Commission of Public Records",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Commission of Public Records",
+    "Entity Address":"1205 Camino Carlos Rey, Santa Fe, NM, 87507"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1836,
+    "AgencyNumber":"404",
+    "AgencyName":"Board of Examiners for Architects",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Board of Examiners for Architects",
+    "Entity Address":"2550 Cerrillos Road, Santa Fe, NM, 87504"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.65566,-105.95832 ]
+    },
+    "properties": {
+    "GUID":1837,
+    "AgencyNumber":"446",
+    "AgencyName":"New Mexico Medical Board",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New Mexico Medical Board",
+    "Entity Address":"2055 S. Pacheco Street, Santa Fe, NM, 87505"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1838,
+    "AgencyNumber":"452",
+    "AgencyName":"New Mexico Hospital Equipment Loan Council",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New Mexico Hospital Equipment Loan Council",
+    "Entity Address":"7471 Pan American Freeway NE, Albuquerque, NM, 87109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.65833,-105.98286 ]
+    },
+    "properties": {
+    "GUID":1839,
+    "AgencyNumber":"464",
+    "AgencyName":"Board of Licensure for Professional Engineers and Srveyors",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Board of Licensure for Professional Engineers and Srveyors",
+    "Entity Address":"2550 Cerrillos Rd., Santa Fe, NM, 87505"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.18417,-106.59126 ]
+    },
+    "properties": {
+    "GUID":1840,
+    "AgencyNumber":"465",
+    "AgencyName":"Gaming Control Board",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Gaming Control Board",
+    "Entity Address":"4900 Alameda Blvd NE, Albuquerque, NM, 87113"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.18417,-106.59126 ]
+    },
+    "properties": {
+    "GUID":1841,
+    "AgencyNumber":"469",
+    "AgencyName":"New Mexico Racing Commission",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New Mexico Racing Commission",
+    "Entity Address":"4900 Alameda Blvd. NE, Albuquerque, NM, 87113"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.16313,-106.59386 ]
+    },
+    "properties": {
+    "GUID":1842,
+    "AgencyNumber":"479",
+    "AgencyName":"State of New Mexico Board of Veterinary Medicine",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"State of New Mexico Board of Veterinary Medicine",
+    "Entity Address":"7301 Jefferson St, Albuquerque, NM, 87109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68442,-105.93789 ]
+    },
+    "properties": {
+    "GUID":1843,
+    "AgencyNumber":"539",
+    "AgencyName":"Commissioner of Public Lands",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Commissioner of Public Lands",
+    "Entity Address":"310 Old Santa Fe Trail, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.90241,-106.5788 ]
+    },
+    "properties": {
+    "GUID":1844,
+    "AgencyNumber":"547",
+    "AgencyName":"Cumbres & Toltec Scenic Railroad Commission",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Cumbres & Toltec Scenic Railroad Commission",
+    "Entity Address":"500 S. Terrace Ave, Chama, NM, 87520"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68374,-105.94154 ]
+    },
+    "properties": {
+    "GUID":1845,
+    "AgencyNumber":"550",
+    "AgencyName":"Office of the State Engineere-Interstate Stream Commsision",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Office of the State Engineere-Interstate Stream Commsision",
+    "Entity Address":"407 Galisteo Street, Suite #101 , Santa Fe, NM, 87504"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0812,-106.57711 ]
+    },
+    "properties": {
+    "GUID":1846,
+    "AgencyNumber":"603",
+    "AgencyName":"New Mexico Office of African American Affairs",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New Mexico Office of African American Affairs",
+    "Entity Address":"310 San Pedro Dr. Suite 230, Albuquerque, NM, 87108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.08867,-106.6523 ]
+    },
+    "properties": {
+    "GUID":1847,
+    "AgencyNumber":"604",
+    "AgencyName":"State of New Mexico Comission for the Deaf and Hard of Hearing ",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"State of New Mexico Comission for the Deaf and Hard of Hearing ",
+    "Entity Address":"505 Marquette Ave, NW Suite 1550, Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0594,-106.61784 ]
+    },
+    "properties": {
+    "GUID":1848,
+    "AgencyNumber":"632",
+    "AgencyName":"State of New Mexico Workers' Compensation Administration",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"State of New Mexico Workers' Compensation Administration",
+    "Entity Address":"2410 Centre Ave. SE, Albuquerque, NM, 87106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6831,-105.93779 ]
+    },
+    "properties": {
+    "GUID":1849,
+    "AgencyNumber":"645",
+    "AgencyName":"Governor's Commission on Disability",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Governor's Commission on Disability",
+    "Entity Address":"491 Old Santa Fe Trail, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.08583,-106.64603 ]
+    },
+    "properties": {
+    "GUID":1850,
+    "AgencyNumber":"668",
+    "AgencyName":"Office of Natural Resources Trustee",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Office of Natural Resources Trustee",
+    "Entity Address":"121 Tijeras Avenue NE, Suite 1000, Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.10357,-106.57422 ]
+    },
+    "properties": {
+    "GUID":1851,
+    "AgencyNumber":"780",
+    "AgencyName":"NNM Crime Victims Preparation Commission",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"NNM Crime Victims Preparation Commission",
+    "Entity Address":"6200 Uptown NE, Suite 210, Albuquerque, NM, 87110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.08655,-106.65654 ]
+    },
+    "properties": {
+    "GUID":1852,
+    "AgencyNumber":"801",
+    "AgencyName":"Mid Region Council of Governments",
+    "AgencyType":"Councils-of-Government",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Mid Region Council of Governments",
+    "Entity Address":"809 Copper Avenue, NW, Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6354,-106.04476 ]
+    },
+    "properties": {
+    "GUID":1853,
+    "AgencyNumber":"809",
+    "AgencyName":"Southeastern New Mexico Economic Development District",
+    "AgencyType":"Councils-of-Government",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Southeastern New Mexico Economic Development District",
+    "Entity Address":"1600 SE Main St., Roswell, NM, 88203"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.15606,-106.59034 ]
+    },
+    "properties": {
+    "GUID":1854,
+    "AgencyNumber":"811",
+    "AgencyName":"New Mexico Lottery ",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New Mexico Lottery ",
+    "Entity Address":"4511 Osuna Road N.E., Albuquerque, NM, 87199"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.01353,-106.59887 ]
+    },
+    "properties": {
+    "GUID":1855,
+    "AgencyNumber":"924",
+    "AgencyName":"New Mexico Public Education Department",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Anthony Charter School",
+    "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.08377,-106.52657 ]
+    },
+    "properties": {
+    "GUID":1856,
+    "AgencyNumber":"924",
+    "AgencyName":"New Mexico Public Education Department",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Gilbert L Sena Charter High School",
+    "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.99275,-106.61736 ]
+    },
+    "properties": {
+    "GUID":1857,
+    "AgencyNumber":"924",
+    "AgencyName":"New Mexico Public Education Department",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"International School at Mesa Del Sol",
+    "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.17811,-105.69813 ]
+    },
+    "properties": {
+    "GUID":1858,
+    "AgencyNumber":"924",
+    "AgencyName":"New Mexico Public Education Department",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"La Jicarita Community School",
+    "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.29783,-106.76045 ]
+    },
+    "properties": {
+    "GUID":1859,
+    "AgencyNumber":"924",
+    "AgencyName":"New Mexico Public Education Department",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Las Montanas Charter School",
+    "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.06273,-106.6213 ]
+    },
+    "properties": {
+    "GUID":1860,
+    "AgencyNumber":"924",
+    "AgencyName":"New Mexico Public Education Department",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Mission Achievement and Success",
+    "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.14074,-106.66034 ]
+    },
+    "properties": {
+    "GUID":1861,
+    "AgencyNumber":"924",
+    "AgencyName":"New Mexico Public Education Department",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Montessori Elementary School",
+    "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.30867,-106.77808 ]
+    },
+    "properties": {
+    "GUID":1862,
+    "AgencyNumber":"924",
+    "AgencyName":"New Mexico Public Education Department",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New America School - Las Cruces",
+    "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.17383,-106.63431 ]
+    },
+    "properties": {
+    "GUID":1863,
+    "AgencyNumber":"924",
+    "AgencyName":"New Mexico Public Education Department",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"North Valley Academy",
+    "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.05488,-106.64261 ]
+    },
+    "properties": {
+    "GUID":1864,
+    "AgencyNumber":"924",
+    "AgencyName":"New Mexico Public Education Department",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Academy of Trades and Technology",
+    "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.27877,-106.74791 ]
+    },
+    "properties": {
+    "GUID":1865,
+    "AgencyNumber":"953",
+    "AgencyName":"New Mexico State University",
+    "AgencyType":"Higher-Education-Institutions",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New Mexico State University",
+    "Entity Address":"1782 East University Avenue, Las Cruces, NM 88003"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.40881,-104.52315 ]
+    },
+    "properties": {
+    "GUID":1866,
+    "AgencyNumber":"961",
+    "AgencyName":"New Mexico Military Institute",
+    "AgencyType":"Higher-Education-Institutions",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New Mexico Military Institute",
+    "Entity Address":"101 West College Blvd., Roswell, NM, 88201"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.77,-108.17175 ]
+    },
+    "properties": {
+    "GUID":1867,
+    "AgencyNumber":"973",
+    "AgencyName":"San Juan College",
+    "AgencyType":"Higher-Education-Institutions",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"San Juan College",
+    "Entity Address":"4601 College Boulevard, Farmington, NM, 87402"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.77015,-108.27936 ]
+    },
+    "properties": {
+    "GUID":1868,
+    "AgencyNumber":"1001",
+    "AgencyName":"Workforce Connection of Central New Mexico",
+    "AgencyType":"Workforce-Boards",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Workforce Connection of Central New Mexico",
+    "Entity Address":"809 Copper Avenue, NW, Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.59788,-106.03994 ]
+    },
+    "properties": {
+    "GUID":1869,
+    "AgencyNumber":"1010",
+    "AgencyName":"Northern Area Local Workforce Development Board",
+    "AgencyType":"Workforce-Boards",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Northern Area Local Workforce Development Board",
+    "Entity Address":"#5 Bisbee Court, Suite 104, Santa Fe, NM, 87505"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.84878,-104.41117 ]
+    },
+    "properties": {
+    "GUID":1870,
+    "AgencyNumber":"2001",
+    "AgencyName":"Artesia Special Hospital District",
+    "AgencyType":"Hospitals-or-Special-Hospital-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Artesia Special Hospital District",
+    "Entity Address":"702 N 13th St, Artesia, NM 88210"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.45518,-103.19326 ]
+    },
+    "properties": {
+    "GUID":1871,
+    "AgencyNumber":"2088",
+    "AgencyName":"Union County General Hospital",
+    "AgencyType":"Hospitals-or-Special-Hospital-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Union County General Hospital",
+    "Entity Address":"300 Wilson St, Clayton, NM 88415"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.39044,-106.81454 ]
+    },
+    "properties": {
+    "GUID":1872,
+    "AgencyNumber":"3132",
+    "AgencyName":"Dona Ana Mutual Domestic Water Consumers Association",
+    "AgencyType":"Mutual-Domestic-Water-Associations",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Dona Ana Mutual Domestic Water Consumers Association",
+    "Entity Address":"5535 Ledesma Dr, Las Cruces, NM 88007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.16364,-106.69834 ]
+    },
+    "properties": {
+    "GUID":1873,
+    "AgencyNumber":"3485",
+    "AgencyName":"Lower Rio Grande Public Water Works Authority",
+    "AgencyType":"Mutual-Domestic-Water-Associations",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Lower Rio Grande Public Water Works Authority",
+    "Entity Address":"P.O. Box 2646, Anthony, NM, 88021"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.76975,-103.18405 ]
+    },
+    "properties": {
+    "GUID":1874,
+    "AgencyNumber":"4001",
+    "AgencyName":"Lea County Communications Authority",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Lea County Communications Authority",
+    "Entity Address":"100 N. Main, Suite 11, Lovington, NM, 88260"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.10784,-106.61336 ]
+    },
+    "properties": {
+    "GUID":1875,
+    "AgencyNumber":"4003",
+    "AgencyName":"Albuquerque Metropolitan Arroyo Flood Control Authority",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Albuquerque Metropolitan Arroyo Flood Control Authority",
+    "Entity Address":"2600 Prospect Ave., NE, Albuquerque, NM, 87107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.39549,-105.65648 ]
+    },
+    "properties": {
+    "GUID":1876,
+    "AgencyNumber":"4008",
+    "AgencyName":"Alto Lakes Water & Sanitation District",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Alto Lakes Water & Sanitation District",
+    "Entity Address":"214 Lake Shore Drive, Alto, NM, 88312"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.17608,-103.72577 ]
+    },
+    "properties": {
+    "GUID":1877,
+    "AgencyNumber":"4012",
+    "AgencyName":"Arch Hurley Conservancy District",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Arch Hurley Conservancy District",
+    "Entity Address":"PO Box 1167, Tucumcari, NM 88401"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.52344,-105.89092 ]
+    },
+    "properties": {
+    "GUID":1878,
+    "AgencyNumber":"4013",
+    "AgencyName":"Eldorado Area Water and Sanitation District",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Eldorado Area Water and Sanitation District",
+    "Entity Address":"2 North Chamisa Drive, Suite A, Santa Fe, NM, 87508"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.34082,-105.61607 ]
+    },
+    "properties": {
+    "GUID":1879,
+    "AgencyNumber":"4014",
+    "AgencyName":"El Valle de Los Ranchos Water & Sanitation District",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"El Valle de Los Ranchos Water & Sanitation District",
+    "Entity Address":"P.O. Box 2797, Ranchos De Taos, NM, 87557"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.30373,-106.78353 ]
+    },
+    "properties": {
+    "GUID":1880,
+    "AgencyNumber":"4016",
+    "AgencyName":"Elephant Butte Irrigation District",
+    "AgencyType":"Irrigation-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Elephant Butte Irrigation District",
+    "Entity Address":"530 South Melendres, Las Cruces, NM, 88005"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.42782,-105.57403 ]
+    },
+    "properties": {
+    "GUID":1881,
+    "AgencyNumber":"4019",
+    "AgencyName":"El Prado Water & Sanitation District",
+    "AgencyType":"Soil-And-Water-Conservation-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"El Prado Water & Sanitation District",
+    "Entity Address":"P.O. Box 1110, El Prado, NM, 87529"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.01144,-106.06385 ]
+    },
+    "properties": {
+    "GUID":1882,
+    "AgencyNumber":"4026",
+    "AgencyName":"North Central Regional Transit District",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"North Central Regional Transit District",
+    "Entity Address":"1327 N. Riverside Drive, Espanola, NM, 87532"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.53585,-108.71079 ]
+    },
+    "properties": {
+    "GUID":1883,
+    "AgencyNumber":"4029",
+    "AgencyName":"Northwest NM Regional Solid Waste Authority",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Northwest NM Regional Solid Waste Authority",
+    "Entity Address":"101 Red Mesa Bluffs Drive, Thoreau, NM, 87323"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.44216,-103.17232 ]
+    },
+    "properties": {
+    "GUID":1884,
+    "AgencyNumber":"4041",
+    "AgencyName":"Lea County Solid Waste Authority",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Lea County Solid Waste Authority",
+    "Entity Address":"100 N. Main, Suite 11, Lovington, NM, 88260"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.75925,-106.05669 ]
+    },
+    "properties": {
+    "GUID":1885,
+    "AgencyNumber":"4044",
+    "AgencyName":"Estancia Valley SWA",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Estancia Valley SWA",
+    "Entity Address":"515 Allen Street, Estancia, NM, 87016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.35039,-105.55886 ]
+    },
+    "properties": {
+    "GUID":1886,
+    "AgencyNumber":"4058",
+    "AgencyName":"Greentree Solid Waste Authority",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Greentree Solid Waste Authority",
+    "Entity Address":"26590 US-70, Ruidoso Downs, NM 88346"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.30752,-106.81633 ]
+    },
+    "properties": {
+    "GUID":1887,
+    "AgencyNumber":"4062",
+    "AgencyName":"Mesilla Valley Regional Dispatch Authority",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Mesilla Valley Regional Dispatch Authority",
+    "Entity Address":"911 Lake Tahoe Ct, Las Cruces, NM 88007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.29429,-106.80487 ]
+    },
+    "properties": {
+    "GUID":1888,
+    "AgencyNumber":"4064",
+    "AgencyName":"Metro Narcotics Agency",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Metro Narcotics Agency",
+    "Entity Address":"PO Box 20000, Las Cruces, NM, 88004"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.366,-106.74916 ]
+    },
+    "properties": {
+    "GUID":1889,
+    "AgencyNumber":"4065",
+    "AgencyName":"Animal Service Center of the Mesilla Valley",
+    "AgencyType":"Other",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Animal Service Center of the Mesilla Valley",
+    "Entity Address":"3551 Bataan Memorial, Las Cruces, NM 88012"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.01308,-106.60344 ]
+    },
+    "properties": {
+    "GUID":1890,
+    "AgencyNumber":"4066",
+    "AgencyName":"Anthony Water & Sanitation District",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Anthony Water & Sanitation District",
+    "Entity Address":"1155 N 4th St, Anthony, NM 88021"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.23973,-106.70066 ]
+    },
+    "properties": {
+    "GUID":1891,
+    "AgencyNumber":"4095",
+    "AgencyName":"Eastern Sandoval County Arroyo Flood Control Authority",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Eastern Sandoval County Arroyo Flood Control Authority",
+    "Entity Address":"PO Box 638, Bernalillo, NM 87004"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.23973,-106.70066 ]
+    },
+    "properties": {
+    "GUID":1892,
+    "AgencyNumber":"4096",
+    "AgencyName":"Southern Sandoval Col Arroyo Flood Control Authority",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Southern Sandoval Col Arroyo Flood Control Authority",
+    "Entity Address":"1041 Commercial Drive SE, Rio Rancho, NM 87124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.08655,-106.65654 ]
+    },
+    "properties": {
+    "GUID":1893,
+    "AgencyNumber":"4101",
+    "AgencyName":"Rio Metro Regional Transit District",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Rio Metro Regional Transit District",
+    "Entity Address":"809 Copper Ave. NW, Albuquerque, NM 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.41706,-104.47233 ]
+    },
+    "properties": {
+    "GUID":1894,
+    "AgencyNumber":"4104",
+    "AgencyName":"Eddy-Lea Energy Alliance LLC",
+    "AgencyType":"Other",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Eddy-Lea Energy Alliance LLC",
+    "Entity Address":"100 North Main St., Lovington, NM 88620"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.48577,-106.72346 ]
+    },
+    "properties": {
+    "GUID":1895,
+    "AgencyNumber":"5007",
+    "AgencyName":"Dona Ana County",
+    "AgencyType":"Counties",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Dona Ana County",
+    "Entity Address":"845 N. Motel Blvd., Las Cruces, NM, 88007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.82358,-104.84546 ]
+    },
+    "properties": {
+    "GUID":1896,
+    "AgencyNumber":"5010",
+    "AgencyName":"Guadalupe County",
+    "AgencyType":"Counties",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Guadalupe County",
+    "Entity Address":"130 South 4th Street, Santa Rosa, NM, 88435"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.88004,-106.30311 ]
+    },
+    "properties": {
+    "GUID":1897,
+    "AgencyNumber":"5015",
+    "AgencyName":"Los Alamos County",
+    "AgencyType":"Counties",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Los Alamos County",
+    "Entity Address":"1000 Central Ave, Los Alamos, NM, 87544"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.38824,-108.23775 ]
+    },
+    "properties": {
+    "GUID":1898,
+    "AgencyNumber":"5023",
+    "AgencyName":"San Juan County",
+    "AgencyType":"Counties",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"San Juan County",
+    "Entity Address":"100 South Oliver Drive, Aztec, NM, 87410"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.76174,-108.1306 ]
+    },
+    "properties": {
+    "GUID":1899,
+    "AgencyNumber":"6010",
+    "AgencyName":"City of Bayard",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"City of Bayard",
+    "Entity Address":"801 Central Avenue, Bayard, NM, 88023"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.76374,-108.13493 ]
+    },
+    "properties": {
+    "GUID":1900,
+    "AgencyNumber":"6010",
+    "AgencyName":"City of Bayard",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"City of Bayard Public Housing Authority",
+    "Entity Address":"801 Central Avenue, Bayard, NM, 88023"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.2687,-107.75864 ]
+    },
+    "properties": {
+    "GUID":1901,
+    "AgencyNumber":"6048",
+    "AgencyName":"City of Deming",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"City of Deming",
+    "Entity Address":"309 South Gold, Deming, NM, 88031"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.94675,-103.65663 ]
+    },
+    "properties": {
+    "GUID":1902,
+    "AgencyNumber":"6056",
+    "AgencyName":"Town of Elida",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Town of Elida",
+    "Entity Address":"704 Clark Street, Elida, NM, 88116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.75742,-106.05535 ]
+    },
+    "properties": {
+    "GUID":1903,
+    "AgencyNumber":"6064",
+    "AgencyName":"EMW Gas Association",
+    "AgencyType":"Water-And-Natural-Gas-Associations",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"EMW Gas Association",
+    "Entity Address":"416 5th St, Estancia, NM 87016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.82145,-103.31745 ]
+    },
+    "properties": {
+    "GUID":1904,
+    "AgencyNumber":"6078",
+    "AgencyName":"Village of Grady",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Village of Grady",
+    "Entity Address":"219 W Main, Grady, NM, 88120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.80617,-106.73336 ]
+    },
+    "properties": {
+    "GUID":1905,
+    "AgencyNumber":"6110",
+    "AgencyName":"Village of Los Lunas",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Village of Los Lunas",
+    "Entity Address":"660 Main St., Los Lunas, NM, 87031"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.16199,-106.6428 ]
+    },
+    "properties": {
+    "GUID":1906,
+    "AgencyNumber":"6112",
+    "AgencyName":"Village of Los Ranchos de Albuquerque",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Village of Los Ranchos de Albuquerque",
+    "Entity Address":"6718 Rio Grande Blvd., NW, Los Ranchos de Albuquerque, NM, 87107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.28623,-104.09577 ]
+    },
+    "properties": {
+    "GUID":1907,
+    "AgencyNumber":"6114",
+    "AgencyName":"Village of Loving",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Village of Loving",
+    "Entity Address":"415 W Cedar, Loving, NM, 88256"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.11673,-107.24393 ]
+    },
+    "properties": {
+    "GUID":1908,
+    "AgencyNumber":"6118",
+    "AgencyName":"Village of Magdalena",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Village of Magdalena",
+    "Entity Address":"108 N Main St, Magdalena, NM, 87825"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.27009,-106.80084 ]
+    },
+    "properties": {
+    "GUID":1909,
+    "AgencyNumber":"6124",
+    "AgencyName":"Town of Mesilla",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Town of Mesilla",
+    "Entity Address":"2231 Avenida de Mesilla, Mesilla, NM, 88005"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.40725,-105.57307 ]
+    },
+    "properties": {
+    "GUID":1910,
+    "AgencyNumber":"6170",
+    "AgencyName":"Town of Taos",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Town of Taos",
+    "Entity Address":"400 Camino de la Placita, Taos, NM, 87571"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.11618,-107.29336 ]
+    },
+    "properties": {
+    "GUID":1911,
+    "AgencyNumber":"6188",
+    "AgencyName":"Village of Williamsburg",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Village of Williamsburg",
+    "Entity Address":"309 Veater St., Williamsburg, NM, 87942"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68131,-105.93946 ]
+    },
+    "properties": {
+    "GUID":1912,
+    "AgencyNumber":"6189",
+    "AgencyName":"New Mexico Self-Insurers' Fund",
+    "AgencyType":"Other",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New Mexico Self-Insurers' Fund",
+    "Entity Address":"1229 Paseo de Peralta, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.73417,-108.3598 ]
+    },
+    "properties": {
+    "GUID":1913,
+    "AgencyNumber":"6195",
+    "AgencyName":"Town of Kirtland",
+    "AgencyType":"Municipalities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Town of Kirtland",
+    "Entity Address":"47 RD 6500 Kirtland, NM 87417"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1052,-106.59925 ]
+    },
+    "properties": {
+    "GUID":1914,
+    "AgencyNumber":"7002",
+    "AgencyName":"Albuquerque Public Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"21st Century Public Academy Foundation",
+    "Entity Address":"6410 Uptown Blvd. Suite 300E, Albuquerque, NM, 87125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.10879,-106.69981 ]
+    },
+    "properties": {
+    "GUID":1915,
+    "AgencyNumber":"7002",
+    "AgencyName":"Albuquerque Public Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Albuquerque Talent Development Academy",
+    "Entity Address":"6410 Uptown Blvd. Suite 300E, Albuquerque, NM, 87125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1112,-106.68252 ]
+    },
+    "properties": {
+    "GUID":1916,
+    "AgencyNumber":"7002",
+    "AgencyName":"Albuquerque Public Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Montessori of the Rio Grande",
+    "Entity Address":"6410 Uptown Blvd. Suite 300E, Albuquerque, NM, 87125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13289,-106.64062 ]
+    },
+    "properties": {
+    "GUID":1917,
+    "AgencyNumber":"7002",
+    "AgencyName":"Albuquerque Public Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Mountain Mahogany Community School",
+    "Entity Address":"6410 Uptown Blvd. Suite 300E, Albuquerque, NM, 87125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.139,-106.58399 ]
+    },
+    "properties": {
+    "GUID":1918,
+    "AgencyNumber":"7002",
+    "AgencyName":"Albuquerque Public Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Bataan Military Academy",
+    "Entity Address":"6410 Uptown Blvd. Suite 300E, Albuquerque, NM, 87125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.08628,-106.64251 ]
+    },
+    "properties": {
+    "GUID":1919,
+    "AgencyNumber":"7002",
+    "AgencyName":"Albuquerque Public Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Albuquerque Charter Academy",
+    "Entity Address":"6410 Uptown Blvd. Suite 300E, Albuquerque, NM, 87125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.12439,-106.64369 ]
+    },
+    "properties": {
+    "GUID":1920,
+    "AgencyNumber":"7002",
+    "AgencyName":"Albuquerque Public Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Los Puentes Charter School Foundation",
+    "Entity Address":"6410 Uptown Blvd. Suite 300E, Albuquerque, NM, 87125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.17544,-106.344 ]
+    },
+    "properties": {
+    "GUID":1921,
+    "AgencyNumber":"7002",
+    "AgencyName":"Albuquerque Public Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"East Mountain High School Foundation",
+    "Entity Address":"6410 Uptown Blvd. Suite 300E, Albuquerque, NM, 87125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.18103,-106.58321 ]
+    },
+    "properties": {
+    "GUID":1922,
+    "AgencyNumber":"7002",
+    "AgencyName":"Albuquerque Public Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Corrales International School Foundation",
+    "Entity Address":"6410 Uptown Blvd. Suite 300E, Albuquerque, NM, 87125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.08606,-106.65322 ]
+    },
+    "properties": {
+    "GUID":1923,
+    "AgencyNumber":"7002",
+    "AgencyName":"Albuquerque Public Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Albuquerque Public Schools Foundation",
+    "Entity Address":"6410 Uptown Blvd. Suite 300E, Albuquerque, NM, 87125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.91423,-107.811 ]
+    },
+    "properties": {
+    "GUID":1924,
+    "AgencyNumber":"7005",
+    "AgencyName":"Aztec Municipal Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Aztec Municipal Schools",
+    "Entity Address":"1118 W Aztec Blvd, Aztec, NM, 87410"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.02215,-104.40247 ]
+    },
+    "properties": {
+    "GUID":1925,
+    "AgencyNumber":"7046",
+    "AgencyName":"Lake Arthur Municipal Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Lake Arthur Municipal Schools",
+    "Entity Address":"700 Broadway, Lake Arthur, NM, 88253"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.61303,-103.26635 ]
+    },
+    "properties": {
+    "GUID":1926,
+    "AgencyNumber":"7050",
+    "AgencyName":"Logan Municipal Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Logan Municipal Schools",
+    "Entity Address":"301 N. Second St., Logan, NM, 88426"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.43362,-103.63248 ]
+    },
+    "properties": {
+    "GUID":1927,
+    "AgencyNumber":"7058",
+    "AgencyName":"Melrose Municipal Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Melrose Municipal Schools",
+    "Entity Address":"100 Missouri Ave, Melrose, NM, 88124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.03358,-106.11972 ]
+    },
+    "properties": {
+    "GUID":1928,
+    "AgencyNumber":"7060",
+    "AgencyName":"Moriarty Edgewood School District",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Moriarty Edgewood School District",
+    "Entity Address":"200 Center St, Moriarty, NM, 87035"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.53322,-108.52257 ]
+    },
+    "properties": {
+    "GUID":1929,
+    "AgencyNumber":"7071",
+    "AgencyName":"Reserve Independent Schools",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Reserve Independent Schools",
+    "Entity Address":"24 Mountaineer Road, Reserve, NM, 87830"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.51936,-104.10013 ]
+    },
+    "properties": {
+    "GUID":1930,
+    "AgencyNumber":"7072",
+    "AgencyName":"Roswell Independent School District",
+    "AgencyType":"Schools",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Roswell Independent School District",
+    "Entity Address":"300 N. Kentucky, Suite 201, Roswell, NM, 88201"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.90231,-104.43928 ]
+    },
+    "properties": {
+    "GUID":1931,
+    "AgencyNumber":"7092",
+    "AgencyName":"High Plains Regional Education Cooperative #3",
+    "AgencyType":"Regional-Educational-Cooperatives",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"High Plains Regional Education Cooperative #3",
+    "Entity Address":"101 N. 2nd Street, Raton, NM, 87740"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.14877,-106.5979 ]
+    },
+    "properties": {
+    "GUID":1932,
+    "AgencyNumber":"7098",
+    "AgencyName":"Cooperative Educational Services",
+    "AgencyType":"Regional-Educational-Cooperatives",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Cooperative Educational Services",
+    "Entity Address":"4216 Balloon Park Road, NE, Albuquerque, NM, 87109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.59754,-105.22356 ]
+    },
+    "properties": {
+    "GUID":1933,
+    "AgencyNumber":"7115",
+    "AgencyName":"Northeast Regional Education Cooperative # 4",
+    "AgencyType":"Regional-Educational-Cooperatives",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Northeast Regional Education Cooperative # 4",
+    "Entity Address":"1031 11th St, Las Vegas, NM, 87701"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.83955,-104.42602 ]
+    },
+    "properties": {
+    "GUID":1934,
+    "AgencyNumber":"7135",
+    "AgencyName":"Pecos Valley Regional Education Cooperative No. 8",
+    "AgencyType":"Regional-Educational-Cooperatives",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Pecos Valley Regional Education Cooperative No. 8",
+    "Entity Address":"2218 W. Grand Ave, Artesia, NM, 88210"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.39564,-104.52621 ]
+    },
+    "properties": {
+    "GUID":1935,
+    "AgencyNumber":"8009",
+    "AgencyName":"Chaves SWCD",
+    "AgencyType":"Soil-And-Water-Conservation-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Chaves SWCD",
+    "Entity Address":"300 N. Pennsylvania, Suite 3, Roswell, NM, 88201"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.50827,-106.23923 ]
+    },
+    "properties": {
+    "GUID":1936,
+    "AgencyNumber":"8010",
+    "AgencyName":"Claunch Pinto Soil & Water Conservation District",
+    "AgencyType":"Soil-And-Water-Conservation-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Claunch Pinto Soil & Water Conservation District",
+    "Entity Address":"P.O. Box 129, Mountainair, NM, 87036"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.5458,-105.58355 ]
+    },
+    "properties": {
+    "GUID":1937,
+    "AgencyNumber":"8044",
+    "AgencyName":"Upper Hondo SWCD",
+    "AgencyType":"Soil-And-Water-Conservation-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Upper Hondo SWCD",
+    "Entity Address":"P.O. Box 900, 516 Smokey Bear Blvd., Captain, NM, 88316"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.08769,-106.65156 ]
+    },
+    "properties": {
+    "GUID":1938,
+    "AgencyNumber":"8048",
+    "AgencyName":"Eastern New Mexico Water Utility Authority",
+    "AgencyType":"Special-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Eastern New Mexico Water Utility Authority",
+    "Entity Address":"809 Parkland Dr., Suite A, Clovis, NM, 88101"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.79357,-108.26725 ]
+    },
+    "properties": {
+    "GUID":1939,
+    "AgencyNumber":"9005",
+    "AgencyName":"Western Regional Housing Authority",
+    "AgencyType":"Independent-Housing-Authorities",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Western Regional Housing Authority",
+    "Entity Address":"P.O. Box 3015, Silver City, NM, 88062"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1940,
+    "AgencyNumber":"10000",
+    "AgencyName":"Cabezon Public Improvement District",
+    "AgencyType":"Public-Improvement-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Cabezon Public Improvement District",
+    "Entity Address":"3200 Civic Center Circle NE, Rio Rancho, NM, 87144"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.16321,-106.73221 ]
+    },
+    "properties": {
+    "GUID":1941,
+    "AgencyNumber":"10002",
+    "AgencyName":"Montecito Estates PID",
+    "AgencyType":"Public-Improvement-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Montecito Estates PID",
+    "Entity Address":"One Civic Plaza, NW, Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1942,
+    "AgencyNumber":"10003",
+    "AgencyName":"Saltillo Public Improvement District",
+    "AgencyType":"Public-Improvement-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Saltillo Public Improvement District",
+    "Entity Address":"P.O. Box 17, Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1943,
+    "AgencyNumber":"10004",
+    "AgencyName":"Mariposa East Public Improvement District",
+    "AgencyType":"Public-Improvement-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Mariposa East Public Improvement District",
+    "Entity Address":"3200 Civic Center Circle NE, Ste.300, Rio Rancho, NM, 87144"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.19342,-106.74751 ]
+    },
+    "properties": {
+    "GUID":1944,
+    "AgencyNumber":"10005",
+    "AgencyName":"Ventana West",
+    "AgencyType":"Public-Improvement-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Ventana West",
+    "Entity Address":"P.O. Box 2168, Albuquerque, NM, 87103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1945,
+    "AgencyNumber":"10006",
+    "AgencyName":"The Trails Public Improvement District",
+    "AgencyType":"Public-Improvement-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"The Trails Public Improvement District",
+    "Entity Address":"Once Civic Plaza, N.W., Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.40369,-105.29132 ]
+    },
+    "properties": {
+    "GUID":1946,
+    "AgencyNumber":"10007",
+    "AgencyName":"Angel fire Public Improvement District 2007-1",
+    "AgencyType":"Public-Improvement-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Angel fire Public Improvement District 2007-1",
+    "Entity Address":"3465 Mountain View Blvd., Suite 14, Angel Fire, NM, 87710"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9873,-106.61734 ]
+    },
+    "properties": {
+    "GUID":1947,
+    "AgencyNumber":"10009",
+    "AgencyName":"Mesa del Sol Public Improvement District 1",
+    "AgencyType":"Public-Improvement-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Mesa del Sol Public Improvement District 1",
+    "Entity Address":"5700 University Blvd., SE, Albuquerque, NM, 87106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.39939,10.86603 ]
+    },
+    "properties": {
+    "GUID":1948,
+    "AgencyNumber":"10010",
+    "AgencyName":"Volterra Public Improvement District",
+    "AgencyType":"Public-Improvement-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Volterra Public Improvement District",
+    "Entity Address":"One Civic Plaza, N.W., Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1949,
+    "AgencyNumber":"10011",
+    "AgencyName":"Boulders Public Improvement District",
+    "AgencyType":"Public-Improvement-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Boulders Public Improvement District",
+    "Entity Address":"One Civic Plaza, N.W., Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1950,
+    "AgencyNumber":"10012",
+    "AgencyName":"Lower Petroglyphs Public Improvement District",
+    "AgencyType":"Public-Improvement-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Lower Petroglyphs Public Improvement District",
+    "Entity Address":"One Civic Plaza, N.W., Albuquerque, NM, 87102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9873,-106.61734 ]
+    },
+    "properties": {
+    "GUID":1951,
+    "AgencyNumber":"11000",
+    "AgencyName":"Mesa del Sol Tax Increment Development District 1",
+    "AgencyType":"Tax-Increment-Development-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Mesa del Sol Tax Increment Development District 1",
+    "Entity Address":"5700 University Blvd SE, Suite 310, Albuquerque, NM, 87106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.09883,-106.56454 ]
+    },
+    "properties": {
+    "GUID":1952,
+    "AgencyNumber":"11007",
+    "AgencyName":"Winrock Town Center Tax Increment Development District 2",
+    "AgencyType":"Tax-Increment-Development-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Winrock Town Center Tax Increment Development District 2",
+    "Entity Address":"100 Sun Avenue NE, Suite 210, Albuquerque, NM, 87109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1953,
+    "AgencyNumber":"11008",
+    "AgencyName":"Mesa del Sol Tax Increment Development District 2-5",
+    "AgencyType":"Tax-Increment-Development-Districts",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Mesa del Sol Tax Increment Development District 2-5",
+    "Entity Address":"5700 University Blvd., SE, Ste #310, Albuquerque, NM, 87106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.65641,-105.92646 ]
+    },
+    "properties": {
+    "GUID":1954,
+    "AgencyNumber":"111-A",
+    "AgencyName":"Legislative Council Service Permanent Senate Chief Clerk",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Legislative Council Service Permanent Senate Chief Clerk",
+    "Entity Address":"490 Old Santa Fe Trail, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.51994,-105.87009 ]
+    },
+    "properties": {
+    "GUID":1955,
+    "AgencyNumber":"111-B",
+    "AgencyName":"House Chief Clerk's Office",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"House Chief Clerk's Office",
+    "Entity Address":"490 Old Santa Fe Trail, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68448,-105.93999 ]
+    },
+    "properties": {
+    "GUID":1956,
+    "AgencyNumber":"216-D",
+    "AgencyName":"Supreme Court Law Library",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Supreme Court Law Library",
+    "Entity Address":"237 Don Gaspar Ave, Santa Fe, NM, 87501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.12998,-106.60252 ]
+    },
+    "properties": {
+    "GUID":1957,
+    "AgencyNumber":"343-A",
+    "AgencyName":"Retiree Helath Care Authority Schedule of Employer Allocations and Pension Amounts",
+    "AgencyType":"Other",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"Retiree Helath Care Authority Schedule of Employer Allocations and Pension Amounts",
+    "Entity Address":"4308 Carlisle Blvd. NE, Suite 104, Albuquerque, NM 87107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.67413,-105.9517 ]
+    },
+    "properties": {
+    "GUID":1958,
+    "AgencyNumber":"352-A",
+    "AgencyName":"ERB Schedule of Employer Allocations and Pension Amounts",
+    "AgencyType":"Other",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"ERB Schedule of Employer Allocations and Pension Amounts",
+    "Entity Address":"701 Camino De Los Marquez, Santa Fe, NM 87505"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.10832,-106.56846 ]
+    },
+    "properties": {
+    "GUID":1959,
+    "AgencyNumber":"366-A",
+    "AgencyName":"State of New Mexico Public Employees' Deferred Compensation Plan",
+    "AgencyType":"Other",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"State of New Mexico Public Employees' Deferred Compensation Plan",
+    "Entity Address":"33 Plaza La Prensa, Santa Fe, NM, 87507"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.10832,-106.56846 ]
+    },
+    "properties": {
+    "GUID":1960,
+    "AgencyNumber":"366-B",
+    "AgencyName":"PERA Schedule of Employer Allocations and Pension Amounts",
+    "AgencyType":"Other",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"PERA Schedule of Employer Allocations and Pension Amounts",
+    "Entity Address":"33 Plaza La Prensa, Santa Fe, NM, 87507"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68167,-105.94729 ]
+    },
+    "properties": {
+    "GUID":1961,
+    "AgencyNumber":"521-A",
+    "AgencyName":"New Mexico Renewable Energy Transmission Authority",
+    "AgencyType":"State-Agencies",
+    "Audit Fiscal Year":"",
+    "Financial Statement Opinion":"",
+    "FindingNumber":"No Findings",
+    "New or Repeat Finding":"N/A",
+    "Year Finding Originated":"",
+    "Classification of Finding":"",
+    "Category of Finding":"",
+    "Summary of Finding (250 characters max.)":"",
+    "findingLocation":"New Mexico Renewable Energy Transmission Authority",
+    "Entity Address":"20 Windridge Circle, Santa Fe, NM, 87506"
+    }
   }
 ]
 }
