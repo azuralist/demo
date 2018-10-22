@@ -5433,7 +5433,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.940878,35.68483897 ]
+       "coordinates":  [ -106.635615,35.072617 ]
     },
     "properties": {
     "GUID":237,
@@ -5456,7 +5456,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9408246,35.68483021 ]
+       "coordinates":  [ -106.499638,35.087103 ]
     },
     "properties": {
     "GUID":238,
@@ -5479,7 +5479,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9408246,35.68483021 ]
+       "coordinates":  [ -106.499638,35.087103 ]
     },
     "properties": {
     "GUID":239,
@@ -5502,7 +5502,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9407724,35.68481573 ]
+       "coordinates":  [ -106.654693,35.093739 ]
     },
     "properties": {
     "GUID":240,
@@ -5525,7 +5525,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9407724,35.68481573 ]
+       "coordinates":  [ -106.654693,35.093739 ]
     },
     "properties": {
     "GUID":241,
@@ -5548,7 +5548,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9407724,35.68481573 ]
+       "coordinates":  [ -106.654693,35.093739 ]
     },
     "properties": {
     "GUID":242,
@@ -5571,7 +5571,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9407724,35.68481573 ]
+       "coordinates":  [ -106.654693,35.093739 ]
     },
     "properties": {
     "GUID":243,
@@ -5594,7 +5594,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9407222,35.68479569 ]
+       "coordinates":  [ -108.259743,32.784597 ]
     },
     "properties": {
     "GUID":244,
@@ -5617,7 +5617,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9407222,35.68479569 ]
+       "coordinates":  [ -108.259743,32.784597 ]
     },
     "properties": {
     "GUID":245,
@@ -5640,7 +5640,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9406743,35.68477033 ]
+       "coordinates":  [ -106.784164,32.311541 ]
     },
     "properties": {
     "GUID":246,
@@ -5655,7 +5655,7 @@
     "Classification of Finding":"Other Noncompliance",
     "Category of Finding":"Mileage Reimbursements",
     "Summary of Finding (250 characters max.)":"For the year ended June 30, 2017, auditor noted that the School reimbursed employees for mileage at a rate of forty-four cents per mile. Of the 2 travel items tested that included mileage reimbursements, 100% reimbursed a rate higher than the current statutory rate",
-    "findingLocation":"Alma D'arte High school",
+    "findingLocation":"Alma D'arte High School",
     "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
     }
   },
@@ -5663,7 +5663,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9406295,35.68473995 ]
+       "coordinates":  [ -106.652632,35.084049 ]
     },
     "properties": {
     "GUID":247,
@@ -9044,7 +9044,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9411899,35.68477033 ]
+       "coordinates":  [ -106.052228,35.536116 ]
     },
     "properties": {
     "GUID":394,
@@ -9067,7 +9067,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9411899,35.68477033 ]
+       "coordinates":  [ -106.052228,35.536116 ]
     },
     "properties": {
     "GUID":395,
@@ -9090,7 +9090,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9411899,35.68477033 ]
+       "coordinates":  [ -106.052228,35.536116 ]
     },
     "properties": {
     "GUID":396,
@@ -9113,7 +9113,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.941142,35.68479569 ]
+       "coordinates":  [ -108.749865,35.523543 ]
     },
     "properties": {
     "GUID":397,
@@ -9136,7 +9136,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.941142,35.68479569 ]
+       "coordinates":  [ -108.749865,35.523543 ]
     },
     "properties": {
     "GUID":398,
@@ -9159,7 +9159,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.941142,35.68479569 ]
+       "coordinates":  [ -108.749865,35.523543 ]
     },
     "properties": {
     "GUID":399,
@@ -9182,7 +9182,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9410918,35.68481573 ]
+       "coordinates":  [ -106.720902,35.620832 ]
     },
     "properties": {
     "GUID":400,
@@ -9205,7 +9205,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9410918,35.68481573 ]
+       "coordinates":  [ -106.720902,35.620832 ]
     },
     "properties": {
     "GUID":401,
@@ -9228,7 +9228,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9410918,35.68481573 ]
+       "coordinates":  [ -106.720902,35.620832 ]
     },
     "properties": {
     "GUID":402,
@@ -9251,7 +9251,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9410918,35.68481573 ]
+       "coordinates":  [ -106.720902,35.620832 ]
     },
     "properties": {
     "GUID":403,
@@ -9274,7 +9274,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9410396,35.68483021 ]
+       "coordinates":  [ -106.643632,35.071234 ]
     },
     "properties": {
     "GUID":404,
@@ -9297,7 +9297,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9410396,35.68483021 ]
+       "coordinates":  [ -106.643632,35.071234 ]
     },
     "properties": {
     "GUID":405,
@@ -9320,7 +9320,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9409862,35.68483897 ]
+       "coordinates":  [ -106.663377,35.101899 ]
     },
     "properties": {
     "GUID":406,
@@ -9343,7 +9343,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9409862,35.68483897 ]
+       "coordinates":  [ -106.663377,35.101899 ]
     },
     "properties": {
     "GUID":407,
