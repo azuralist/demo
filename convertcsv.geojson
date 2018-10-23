@@ -7342,7 +7342,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.941142,35.68388811 ]
+       "coordinates":  [ -105.400522,36.706148 ]
     },
     "properties": {
     "GUID":320,
@@ -7365,7 +7365,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.941142,35.68388811 ]
+       "coordinates":  [ -105.400522,36.706148 ]
     },
     "properties": {
     "GUID":321,
@@ -7388,7 +7388,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.941142,35.68388811 ]
+       "coordinates":  [ -105.400522,36.706148 ]
     },
     "properties": {
     "GUID":322,
@@ -7411,7 +7411,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.941142,35.68388811 ]
+       "coordinates":  [ -105.400522,36.706148 ]
     },
     "properties": {
     "GUID":323,
@@ -7434,7 +7434,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.941142,35.68388811 ]
+       "coordinates":  [ -105.400522,36.706148 ]
     },
     "properties": {
     "GUID":324,
@@ -7457,7 +7457,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.941142,35.68388811 ]
+       "coordinates":  [ -105.400522,36.706148 ]
     },
     "properties": {
     "GUID":325,
@@ -7480,7 +7480,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.941142,35.68388811 ]
+       "coordinates":  [ -105.400522,36.706148 ]
     },
     "properties": {
     "GUID":326,
@@ -7503,7 +7503,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9411899,35.68391347 ]
+       "coordinates":  [ -105.626754,36.646661 ]
     },
     "properties": {
     "GUID":327,
@@ -7526,7 +7526,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9411899,35.68391347 ]
+       "coordinates":  [ -105.626754,36.646661 ]
     },
     "properties": {
     "GUID":328,
@@ -7549,7 +7549,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9411899,35.68391347 ]
+       "coordinates":  [ -105.626754,36.646661 ]
     },
     "properties": {
     "GUID":329,
@@ -7572,7 +7572,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9411899,35.68391347 ]
+       "coordinates":  [ -105.626754,36.646661 ]
     },
     "properties": {
     "GUID":330,
@@ -7595,7 +7595,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9411899,35.68391347 ]
+       "coordinates":  [ -105.626754,36.646661 ]
     },
     "properties": {
     "GUID":331,
@@ -7618,7 +7618,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9411899,35.68391347 ]
+       "coordinates":  [ -105.626754,36.646661 ]
     },
     "properties": {
     "GUID":332,
@@ -7641,7 +7641,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9412347,35.68394385 ]
+       "coordinates":  [ -106.601811,35.150139 ]
     },
     "properties": {
     "GUID":333,
@@ -7664,7 +7664,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9412347,35.68394385 ]
+       "coordinates":  [ -106.601811,35.150139 ]
     },
     "properties": {
     "GUID":334,
@@ -7687,7 +7687,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9412347,35.68394385 ]
+       "coordinates":  [ -106.601811,35.150139 ]
     },
     "properties": {
     "GUID":335,
@@ -7710,7 +7710,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9412347,35.68394385 ]
+       "coordinates":  [ -106.601811,35.150139 ]
     },
     "properties": {
     "GUID":336,
@@ -7733,7 +7733,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9412347,35.68394385 ]
+       "coordinates":  [ -106.601811,35.150139 ]
     },
     "properties": {
     "GUID":337,
@@ -7756,7 +7756,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9412347,35.68394385 ]
+       "coordinates":  [ -106.601811,35.150139 ]
     },
     "properties": {
     "GUID":338,
@@ -7779,7 +7779,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9412347,35.68394385 ]
+       "coordinates":  [ -106.601811,35.150139 ]
     },
     "properties": {
     "GUID":339,
@@ -7802,7 +7802,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9412759,35.6839789 ]
+       "coordinates":  [ -106.578692,35.326938 ]
     },
     "properties": {
     "GUID":340,
@@ -7825,7 +7825,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9412759,35.6839789 ]
+       "coordinates":  [ -106.578692,35.326938 ]
     },
     "properties": {
     "GUID":341,
@@ -7848,7 +7848,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9412759,35.6839789 ]
+       "coordinates":  [ -106.578692,35.326938 ]
     },
     "properties": {
     "GUID":342,
@@ -7871,7 +7871,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413132,35.68401821 ]
+       "coordinates":  [ -106.737382,34.798203 ]
     },
     "properties": {
     "GUID":343,
@@ -7894,7 +7894,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413132,35.68401821 ]
+       "coordinates":  [ -106.737382,34.798203 ]
     },
     "properties": {
     "GUID":344,
@@ -7917,7 +7917,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413132,35.68401821 ]
+       "coordinates":  [ -106.737382,34.798203 ]
     },
     "properties": {
     "GUID":345,
@@ -7940,7 +7940,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413132,35.68401821 ]
+       "coordinates":  [ -106.737382,34.798203 ]
     },
     "properties": {
     "GUID":346,
@@ -7963,7 +7963,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413132,35.68401821 ]
+       "coordinates":  [ -106.737382,34.798203 ]
     },
     "properties": {
     "GUID":347,
@@ -7986,7 +7986,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413132,35.68401821 ]
+       "coordinates":  [ -106.737382,34.798203 ]
     },
     "properties": {
     "GUID":348,
@@ -8009,7 +8009,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413132,35.68401821 ]
+       "coordinates":  [ -106.737382,34.798203 ]
     },
     "properties": {
     "GUID":349,
@@ -8032,7 +8032,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413132,35.68401821 ]
+       "coordinates":  [ -106.737382,34.798203 ]
     },
     "properties": {
     "GUID":350,
@@ -8055,7 +8055,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413132,35.68401821 ]
+       "coordinates":  [ -106.737382,34.798203 ]
     },
     "properties": {
     "GUID":351,
@@ -8078,7 +8078,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413132,35.68401821 ]
+       "coordinates":  [ -106.737382,34.798203 ]
     },
     "properties": {
     "GUID":352,
@@ -8101,7 +8101,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413459,35.68406131 ]
+       "coordinates":  [ -106.736427,34.798194 ]
     },
     "properties": {
     "GUID":353,
@@ -8124,7 +8124,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413739,35.6841077 ]
+       "coordinates":  [ -108.741565,35.506084 ]
     },
     "properties": {
     "GUID":354,
@@ -8147,7 +8147,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413739,35.6841077 ]
+       "coordinates":  [ -108.741565,35.506084 ]
     },
     "properties": {
     "GUID":355,
@@ -8170,7 +8170,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413739,35.6841077 ]
+       "coordinates":  [ -108.741565,35.506084 ]
     },
     "properties": {
     "GUID":356,
@@ -8193,7 +8193,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413739,35.6841077 ]
+       "coordinates":  [ -108.741565,35.506084 ]
     },
     "properties": {
     "GUID":357,
@@ -8216,7 +8216,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413739,35.6841077 ]
+       "coordinates":  [ -108.741565,35.506084 ]
     },
     "properties": {
     "GUID":358,
@@ -8239,7 +8239,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413966,35.68415683 ]
+       "coordinates":  [ -106.642111,35.056596 ]
     },
     "properties": {
     "GUID":359,
@@ -8262,7 +8262,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413966,35.68415683 ]
+       "coordinates":  [ -106.642111,35.056596 ]
     },
     "properties": {
     "GUID":360,
@@ -8285,7 +8285,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414139,35.68420814 ]
+       "coordinates":  [ -106.794255,35.134615 ]
     },
     "properties": {
     "GUID":361,
@@ -8308,7 +8308,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414139,35.68420814 ]
+       "coordinates":  [ -106.794255,35.134615 ]
     },
     "properties": {
     "GUID":362,
@@ -8331,7 +8331,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414139,35.68420814 ]
+       "coordinates":  [ -106.794255,35.134615 ]
     },
     "properties": {
     "GUID":363,
@@ -8354,7 +8354,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414255,35.68426101 ]
+       "coordinates":  [ -106.525472,35.116840 ]
     },
     "properties": {
     "GUID":364,
@@ -8377,7 +8377,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414255,35.68426101 ]
+       "coordinates":  [ -106.525472,35.116840 ]
     },
     "properties": {
     "GUID":365,
@@ -8400,7 +8400,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414255,35.68426101 ]
+       "coordinates":  [ -106.525472,35.116840 ]
     },
     "properties": {
     "GUID":366,
@@ -8423,7 +8423,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414314,35.68431483 ]
+       "coordinates":  [ -106.524163,35.115059 ]
     },
     "properties": {
     "GUID":367,
@@ -8438,7 +8438,7 @@
     "Classification of Finding":"Significant Deficiency",
     "Category of Finding":"Payroll and Related Liabilities",
     "Summary of Finding (250 characters max.)":"In 1 case, the I-9 form was not signed by the employer,  3 cases, the I-9 form was not signed by the employee,  1 case, there were incomplete copies of documents included with the I-9 form,  3 cases, the employee contract in the personnel file is not signed, 6 cases, the employee�s contract stated a particular number of installments over which their contract would be paid, but the employee�s contract was paid out over a different number of installments, 1 case, the employee�s contracted started part way into the School year, and the contract amount should have been pro-rated based on the number of contract days remaining. It appears as though this was done, but it was not indicated on the employee�s contract.",
-    "findingLocation":"Southwest Primary Learning center",
+    "findingLocation":"Southwest Primary Learning Center",
     "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
     }
   },
@@ -8446,7 +8446,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414314,35.68431483 ]
+       "coordinates":  [ -106.524163,35.115059 ]
     },
     "properties": {
     "GUID":368,
@@ -8461,7 +8461,7 @@
     "Classification of Finding":"Other Noncompliance",
     "Category of Finding":"Revenues and Receivables",
     "Summary of Finding (250 characters max.)":"For 1 of the 25 cash receipts selected for testing, the School was unable to locate and provide supporting documentation",
-    "findingLocation":"Southwest Primary Learning center",
+    "findingLocation":"Southwest Primary Learning Center",
     "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
     }
   },
@@ -8469,7 +8469,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414314,35.68436897 ]
+       "coordinates":  [ -106.524914,35.118385 ]
     },
     "properties": {
     "GUID":369,
@@ -8484,7 +8484,7 @@
     "Classification of Finding":"Significant Deficiency",
     "Category of Finding":"Expenditures and Expenses - Other",
     "Summary of Finding (250 characters max.)":"In 2 out of 25 disbursements tested, the purchase order was dated after the invoice date, indicating that the purchases were not properly approved before they were made. The amount of the disbursements noted equals $899.59",
-    "findingLocation":"Southwest Secondary Learning center",
+    "findingLocation":"Southwest Secondary Learning Center",
     "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
     }
   },
@@ -8492,7 +8492,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414314,35.68436897 ]
+       "coordinates":  [ -106.524914,35.118385 ]
     },
     "properties": {
     "GUID":370,
@@ -8507,7 +8507,7 @@
     "Classification of Finding":"Significant Deficiency",
     "Category of Finding":"Payroll and Related Liabilities",
     "Summary of Finding (250 characters max.)":"We tested 25 payroll transactions and noted the following, 1 case, the I-9 form was not signed by the employee, 2 cases, the I-9 form was not signed by the employer, 7 cases, there were incomplete copies of documents included with the I-9 form, 2 cases, the I-9 on file is not complete; all appropriate sections are not filled out, 1 case, the employee�s contract stated a particular number of installments over which their contract would be paid, but the employee�s contract was paid out over a different number of installments",
-    "findingLocation":"Southwest Secondary Learning center",
+    "findingLocation":"Southwest Secondary Learning Center",
     "Entity Address":"300 Don Gaspar, Santa Fe, NM, 87501"
     }
   },
@@ -8515,7 +8515,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414255,35.68442279 ]
+       "coordinates":  [ -105.594986,36.383451 ]
     },
     "properties": {
     "GUID":371,
@@ -8538,7 +8538,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414255,35.68442279 ]
+       "coordinates":  [ -105.594986,36.383451 ]
     },
     "properties": {
     "GUID":372,
@@ -8561,7 +8561,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9414139,35.68447566 ]
+       "coordinates":  [ -105.593956,36.380091 ]
     },
     "properties": {
     "GUID":373,
@@ -8584,7 +8584,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413966,35.68452697 ]
+       "coordinates":  [ -105.583267,36.395452 ]
     },
     "properties": {
     "GUID":374,
@@ -8607,7 +8607,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413966,35.68452697 ]
+       "coordinates":  [ -105.583267,36.395452 ]
     },
     "properties": {
     "GUID":375,
@@ -8630,7 +8630,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9413966,35.68452697 ]
+       "coordinates":  [ -105.583267,36.395452 ]
     },
     "properties": {
     "GUID":376,
@@ -41566,7 +41566,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -93.0884,31.76145 ]
+       "coordinates":  [ -103.728238,35.177203 ]
     },
     "properties": {
     "GUID":1809,
@@ -41819,7 +41819,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -95.71289,37.09024 ]
+       "coordinates":  [ -108.204224,36.726498 ]
     },
     "properties": {
     "GUID":1820,
@@ -44763,7 +44763,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 10.86603,43.39939 ]
+       "coordinates":  [ -106.651955,35.088220 ]
     },
     "properties": {
     "GUID":1948,
