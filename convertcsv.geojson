@@ -925,12 +925,12 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9401539,35.6837469 ]
+       "coordinates":  [ -105.940326,35.683213 ]
     },
     "properties": {
     "GUID":41,
     "AgencyNumber":"370",
-    "AgencyName":"Office of the \nSecretary of State",
+    "AgencyName":"Office of the Secretary of State",
     "AgencyType":"State-Agencies",
     "AuditFiscalYear":2017,
     "FinancialStatementOpinion":"Unmodified",
@@ -940,7 +940,7 @@
     "Classification of Finding":"Other Noncompliance",
     "Category of Finding":"Budgetary Compliance",
     "Summary of Finding (250 characters max.)":"A $3,300 expenditure was improperly recorded to the General Fund that related to PCI compliance as part of the Public Election Fund. An entry to reclass these expenditures to the correct fund resulted in the fund being over-expended.",
-    "findingLocation":"Office of the \nSecretary of State",
+    "findingLocation":"Office of the Secretary of State",
     "Entity Address":"325 Don Gaspar, Santa Fe, NM, 87501"
     }
   },
@@ -6606,7 +6606,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.940551,35.68401821 ]
+       "coordinates":  [ -106.771171,32.274253 ]
     },
     "properties": {
     "GUID":288,
@@ -6629,7 +6629,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9405883,35.6839789 ]
+       "coordinates":  [ -106.724501,35.109566 ]
     },
     "properties": {
     "GUID":289,
@@ -6652,7 +6652,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9405883,35.6839789 ]
+       "coordinates":  [ -106.724501,35.109566 ]
     },
     "properties": {
     "GUID":290,
@@ -6675,7 +6675,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9405883,35.6839789 ]
+       "coordinates":  [ -106.724501,35.109566 ]
     },
     "properties": {
     "GUID":291,
@@ -6698,7 +6698,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9405883,35.6839789 ]
+       "coordinates":  [ -106.724501,35.109566 ]
     },
     "properties": {
     "GUID":292,
@@ -6721,7 +6721,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9405883,35.6839789 ]
+       "coordinates":  [ -106.724501,35.109566 ]
     },
     "properties": {
     "GUID":293,
@@ -6744,7 +6744,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9405883,35.6839789 ]
+       "coordinates":  [ -106.724501,35.109566 ]
     },
     "properties": {
     "GUID":294,
@@ -6767,7 +6767,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9405883,35.6839789 ]
+       "coordinates":  [ -106.724501,35.109566 ]
     },
     "properties": {
     "GUID":295,
@@ -6790,7 +6790,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9405883,35.6839789 ]
+       "coordinates":  [ -106.724501,35.109566 ]
     },
     "properties": {
     "GUID":296,
@@ -6813,7 +6813,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9405883,35.6839789 ]
+       "coordinates":  [ -106.724501,35.109566 ]
     },
     "properties": {
     "GUID":297,
@@ -6836,7 +6836,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9405883,35.6839789 ]
+       "coordinates":  [ -106.724501,35.109566 ]
     },
     "properties": {
     "GUID":298,
@@ -6881,8 +6881,8 @@
   {
     "type": "Feature",
     "geometry": {
-       "type": "Point",
-       "coordinates":  [ -105.9406743,35.68391347 ]
+       "type": "Point", 
+       "coordinates":  [ -106.059138,36.041864 ]
     },
     "properties": {
     "GUID":300,
@@ -6905,7 +6905,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.9406743,35.68391347 ]
+       "coordinates":  [ -106.059138,36.041864 ]
     },
     "properties": {
     "GUID":301,
@@ -6928,7 +6928,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.999800,35.607829 ]
+       "coordinates":  [ -106.001808,35.606231 ]
     },
     "properties": {
     "GUID":302,
@@ -6951,7 +6951,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.999800,35.607829 ]
+       "coordinates":  [ -106.001808,35.606231 ]
     },
     "properties": {
     "GUID":303,
@@ -6974,7 +6974,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.999800,35.607829 ]
+       "coordinates":  [ -106.001808,35.606231 ]
     },
     "properties": {
     "GUID":304,
@@ -9021,7 +9021,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.998991,35.624817 ]
+       "coordinates":  [ -105.999947,35.624817 ]
     },
     "properties": {
     "GUID":393,
@@ -44924,7 +44924,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.87009,34.51994 ]
+       "coordinates":  [ -105.940727,35.681991 ]
     },
     "properties": {
     "GUID":1955,
@@ -44947,7 +44947,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -105.93999,35.68448 ]
+       "coordinates":  [ -105.93999,35.68548 ]
     },
     "properties": {
     "GUID":1956,
